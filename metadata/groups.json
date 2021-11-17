@@ -1,0 +1,37 @@
+[
+  {
+    "id": "v4",
+    "abbreviation": "V4",
+    "name": "Visegrádska čtyřka"
+  },
+  {
+    "id": "eu",
+    "abbreviation": "EU",
+    "name": "Evropská unie"
+  },
+  {
+    "id": "nato",
+    "abbreviation": "NATO",
+    "name": "Severoatlantická aliance"
+  },
+  {
+    "id": "evropa",
+    "abbreviation": "Evropa",
+    "name": "Evropa"
+  },
+  {
+    "id": "svet",
+    "abbreviation": "Svět",
+    "name": "Svět"
+  },
+  {
+    "id": "g20",
+    "abbreviation": "Skupina G-20",
+    "name": "Skupina G-20"
+  },
+  {
+    "id": "g8",
+    "abbreviation": "Skupina G-8",
+    "name": "Skupina G-8"
+  }
+]

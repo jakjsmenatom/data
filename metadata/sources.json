@@ -1,0 +1,23 @@
+[
+  {
+    "id": "svetova_banka",
+    "abbreviation": "Světová banka",
+    "name": "Světová banka",
+    "url": "data.worldbank.org",
+    "description": ""
+  },
+  {
+    "id": "oecd",
+    "abbreviation": "OECD",
+    "name": "Organizace pro hospodářskou spolupráci a rozvoj",
+    "url": "data.oecd.org",
+    "description": ""
+  },
+  {
+    "id": "eurostat",
+    "abbreviation": "Eurostat",
+    "name": "Eurostat",
+    "url": "ec.europa.eu/eurostat/data",
+    "description": ""
+  }
+]

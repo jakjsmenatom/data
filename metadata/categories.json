@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ekonomika",
+    "name": "Ekonomika",
+    "icon": "fab bitcoin",
+    "description": ""
+  },
+  {
+    "id": "geografie",
+    "name": "Geografie",
+    "icon": "fas globe-europe",
+    "description": ""
+  },
+  {
+    "id": "vzdelavani",
+    "name": "Vzdělávání",
+    "icon": "fas university",
+    "description": ""
+  },
+  {
+    "id": "energetika",
+    "name": "Energetika",
+    "icon": "fas bolt",
+    "description": ""
+  },
+  {
+    "id": "zivotni_prostredi",
+    "name": "Životní prostředí",
+    "icon": "fas tree",
+    "description": ""
+  },
+  {
+    "id": "zdravi",
+    "name": "Zdraví",
+    "icon": "fas heartbeat",
+    "description": ""
+  },
+  {
+    "id": "infrastruktura",
+    "name": "Infrastruktura",
+    "icon": "fas road",
+    "description": ""
+  },
+  {
+    "id": "spolecnost",
+    "name": "Společnost",
+    "icon": "fas users",
+    "description": ""
+  },
+  {
+    "id": "populace",
+    "name": "Populace",
+    "icon": "todo",
+    "description": ""
+  },
+  {
+    "id": "ostatni",
+    "name": "Ostatní",
+    "icon": "fas ellipsis-h",
+    "description": ""
+  }
+]

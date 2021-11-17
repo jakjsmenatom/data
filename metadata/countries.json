@@ -1,0 +1,1318 @@
+[
+  {
+    "id_alp2": "af",
+    "id_alp3": "afg",
+    "id_num": "004",
+    "name": "Afghánistán",
+    "formal_name": "Afghánská islámská republika"
+  },
+  {
+    "id_alp2": "al",
+    "id_alp3": "alb",
+    "id_num": "008",
+    "name": "Albánie",
+    "formal_name": "Albánská republika"
+  },
+  {
+    "id_alp2": "dz",
+    "id_alp3": "dza",
+    "id_num": "012",
+    "name": "Alžírsko",
+    "formal_name": "Alžírská demokratická a lidová republika"
+  },
+  {
+    "id_alp2": "ad",
+    "id_alp3": "and",
+    "id_num": "020",
+    "name": "Andorra",
+    "formal_name": "Andorrské knížectví"
+  },
+  {
+    "id_alp2": "ao",
+    "id_alp3": "ago",
+    "id_num": "024",
+    "name": "Angola",
+    "formal_name": "Angolská republika"
+  },
+  {
+    "id_alp2": "ag",
+    "id_alp3": "atg",
+    "id_num": "028",
+    "name": "Antigua a Barbuda",
+    "formal_name": "Antigua a Barbuda"
+  },
+  {
+    "id_alp2": "ar",
+    "id_alp3": "arg",
+    "id_num": "032",
+    "name": "Argentina",
+    "formal_name": "Argentinská republika"
+  },
+  {
+    "id_alp2": "am",
+    "id_alp3": "arm",
+    "id_num": "051",
+    "name": "Arménie",
+    "formal_name": "Arménská republika"
+  },
+  {
+    "id_alp2": "au",
+    "id_alp3": "aus",
+    "id_num": "036",
+    "name": "Austrálie",
+    "formal_name": "Australské společenství"
+  },
+  {
+    "id_alp2": "az",
+    "id_alp3": "aze",
+    "id_num": "031",
+    "name": "Ázerbájdžán",
+    "formal_name": "Ázerbájdžánská republika"
+  },
+  {
+    "id_alp2": "bs",
+    "id_alp3": "bhs",
+    "id_num": "044",
+    "name": "Bahamy",
+    "formal_name": "Bahamské společenství"
+  },
+  {
+    "id_alp2": "bh",
+    "id_alp3": "bhr",
+    "id_num": "048",
+    "name": "Bahrajn",
+    "formal_name": "Království Bahrajn"
+  },
+  {
+    "id_alp2": "bd",
+    "id_alp3": "bgd",
+    "id_num": "050",
+    "name": "Bangladéš",
+    "formal_name": "Bangladéšská lidová republika"
+  },
+  {
+    "id_alp2": "bb",
+    "id_alp3": "brb",
+    "id_num": "052",
+    "name": "Barbados",
+    "formal_name": "Barbados"
+  },
+  {
+    "id_alp2": "be",
+    "id_alp3": "bel",
+    "id_num": "056",
+    "name": "Belgie",
+    "formal_name": "Belgické království"
+  },
+  {
+    "id_alp2": "bz",
+    "id_alp3": "blz",
+    "id_num": "084",
+    "name": "Belize",
+    "formal_name": "Belize"
+  },
+  {
+    "id_alp2": "by",
+    "id_alp3": "blr",
+    "id_num": "112",
+    "name": "Bělorusko",
+    "formal_name": "Běloruská republika"
+  },
+  {
+    "id_alp2": "bj",
+    "id_alp3": "ben",
+    "id_num": "204",
+    "name": "Benin",
+    "formal_name": "Beninská republika"
+  },
+  {
+    "id_alp2": "bt",
+    "id_alp3": "btn",
+    "id_num": "064",
+    "name": "Bhútán",
+    "formal_name": "Bhútánské království"
+  },
+  {
+    "id_alp2": "bo",
+    "id_alp3": "bol",
+    "id_num": "068",
+    "name": "Bolívie",
+    "formal_name": "Mnohonárodnostní stát Bolívie"
+  },
+  {
+    "id_alp2": "ba",
+    "id_alp3": "bih",
+    "id_num": "070",
+    "name": "Bosna a Hercegovina",
+    "formal_name": "Bosna a Hercegovina"
+  },
+  {
+    "id_alp2": "bw",
+    "id_alp3": "bwa",
+    "id_num": "072",
+    "name": "Botswana",
+    "formal_name": "Botswanská republika"
+  },
+  {
+    "id_alp2": "br",
+    "id_alp3": "bra",
+    "id_num": "076",
+    "name": "Brazílie",
+    "formal_name": "Brazilská federativní republika"
+  },
+  {
+    "id_alp2": "bn",
+    "id_alp3": "brn",
+    "id_num": "096",
+    "name": "Brunej",
+    "formal_name": "Brunej Darussalam"
+  },
+  {
+    "id_alp2": "bg",
+    "id_alp3": "bgr",
+    "id_num": "100",
+    "name": "Bulharsko",
+    "formal_name": "Bulharská republika"
+  },
+  {
+    "id_alp2": "bf",
+    "id_alp3": "bfa",
+    "id_num": "854",
+    "name": "Burkina Faso",
+    "formal_name": "Burkina Faso"
+  },
+  {
+    "id_alp2": "bi",
+    "id_alp3": "bdi",
+    "id_num": "108",
+    "name": "Burundi",
+    "formal_name": "Burundská republika"
+  },
+  {
+    "id_alp2": "td",
+    "id_alp3": "tcd",
+    "id_num": "148",
+    "name": "Čad",
+    "formal_name": "Čadská republika"
+  },
+  {
+    "id_alp2": "me",
+    "id_alp3": "mne",
+    "id_num": "499",
+    "name": "Černá Hora",
+    "formal_name": "Černá Hora"
+  },
+  {
+    "id_alp2": "cz",
+    "id_alp3": "cze",
+    "id_num": "203",
+    "name": "Česko",
+    "formal_name": "Česká republika"
+  },
+  {
+    "id_alp2": "cl",
+    "id_alp3": "chl",
+    "id_num": "152",
+    "name": "Chile",
+    "formal_name": "Chilská republika"
+  },
+  {
+    "id_alp2": "hr",
+    "id_alp3": "hrv",
+    "id_num": "191",
+    "name": "Chorvatsko",
+    "formal_name": "Chorvatská republika"
+  },
+  {
+    "id_alp2": "cn",
+    "id_alp3": "chn",
+    "id_num": "156",
+    "name": "Čína",
+    "formal_name": "Čínská lidová republika"
+  },
+  {
+    "id_alp2": "dk",
+    "id_alp3": "dnk",
+    "id_num": "208",
+    "name": "Dánsko",
+    "formal_name": "Dánské království"
+  },
+  {
+    "id_alp2": "dm",
+    "id_alp3": "dma",
+    "id_num": "212",
+    "name": "Dominika",
+    "formal_name": "Dominické společenství"
+  },
+  {
+    "id_alp2": "do",
+    "id_alp3": "dom",
+    "id_num": "214",
+    "name": "Dominikánská republika",
+    "formal_name": "Dominikánská republika"
+  },
+  {
+    "id_alp2": "dj",
+    "id_alp3": "dji",
+    "id_num": "262",
+    "name": "Džibutsko",
+    "formal_name": "Džibutská republika"
+  },
+  {
+    "id_alp2": "eg",
+    "id_alp3": "egy",
+    "id_num": "818",
+    "name": "Egypt",
+    "formal_name": "Egyptská arabská republika"
+  },
+  {
+    "id_alp2": "ec",
+    "id_alp3": "ecu",
+    "id_num": "218",
+    "name": "Ekvádor",
+    "formal_name": "Ekvádorská republika"
+  },
+  {
+    "id_alp2": "er",
+    "id_alp3": "eri",
+    "id_num": "232",
+    "name": "Eritrea",
+    "formal_name": "Stát Eritrea"
+  },
+  {
+    "id_alp2": "ee",
+    "id_alp3": "est",
+    "id_num": "233",
+    "name": "Estonsko",
+    "formal_name": "Estonská republika"
+  },
+  {
+    "id_alp2": "et",
+    "id_alp3": "eth",
+    "id_num": "231",
+    "name": "Etiopie",
+    "formal_name": "Etiopská federativní demokratická republika"
+  },
+  {
+    "id_alp2": "fj",
+    "id_alp3": "fji",
+    "id_num": "242",
+    "name": "Fidži",
+    "formal_name": "Fidžijská republika"
+  },
+  {
+    "id_alp2": "ph",
+    "id_alp3": "phl",
+    "id_num": "608",
+    "name": "Filipíny",
+    "formal_name": "Filipínská republika"
+  },
+  {
+    "id_alp2": "fi",
+    "id_alp3": "fin",
+    "id_num": "246",
+    "name": "Finsko",
+    "formal_name": "Finská republika"
+  },
+  {
+    "id_alp2": "fr",
+    "id_alp3": "fra",
+    "id_num": "250",
+    "name": "Francie",
+    "formal_name": "Francouzská republika"
+  },
+  {
+    "id_alp2": "ga",
+    "id_alp3": "gab",
+    "id_num": "266",
+    "name": "Gabon",
+    "formal_name": "Gabonská republika"
+  },
+  {
+    "id_alp2": "gm",
+    "id_alp3": "gmb",
+    "id_num": "270",
+    "name": "Gambie",
+    "formal_name": "Gambijská republika"
+  },
+  {
+    "id_alp2": "gh",
+    "id_alp3": "gha",
+    "id_num": "288",
+    "name": "Ghana",
+    "formal_name": "Ghanská republika"
+  },
+  {
+    "id_alp2": "gd",
+    "id_alp3": "grd",
+    "id_num": "308",
+    "name": "Grenada",
+    "formal_name": "Grenada"
+  },
+  {
+    "id_alp2": "ge",
+    "id_alp3": "geo",
+    "id_num": "268",
+    "name": "Gruzie",
+    "formal_name": "Gruzie"
+  },
+  {
+    "id_alp2": "gt",
+    "id_alp3": "gtm",
+    "id_num": "320",
+    "name": "Guatemala",
+    "formal_name": "Guatemalská republika"
+  },
+  {
+    "id_alp2": "gw",
+    "id_alp3": "gnb",
+    "id_num": "624",
+    "name": "Guinea-Bissau",
+    "formal_name": "Republika Guinea-Bissau"
+  },
+  {
+    "id_alp2": "gy",
+    "id_alp3": "guy",
+    "id_num": "328",
+    "name": "Guyana",
+    "formal_name": "Guyanská kooperativní republika"
+  },
+  {
+    "id_alp2": "ht",
+    "id_alp3": "hti",
+    "id_num": "332",
+    "name": "Haiti",
+    "formal_name": "Republika Haiti"
+  },
+  {
+    "id_alp2": "hn",
+    "id_alp3": "hnd",
+    "id_num": "340",
+    "name": "Honduras",
+    "formal_name": "Honduraská republika"
+  },
+  {
+    "id_alp2": "in",
+    "id_alp3": "ind",
+    "id_num": "356",
+    "name": "Indie",
+    "formal_name": "Indická republika"
+  },
+  {
+    "id_alp2": "id",
+    "id_alp3": "idn",
+    "id_num": "360",
+    "name": "Indonésie",
+    "formal_name": "Indonéská republika"
+  },
+  {
+    "id_alp2": "iq",
+    "id_alp3": "irq",
+    "id_num": "368",
+    "name": "Irák",
+    "formal_name": "Irácká republika"
+  },
+  {
+    "id_alp2": "ir",
+    "id_alp3": "irn",
+    "id_num": "364",
+    "name": "Írán",
+    "formal_name": "Íránská islámská republika"
+  },
+  {
+    "id_alp2": "ie",
+    "id_alp3": "irl",
+    "id_num": "372",
+    "name": "Irsko",
+    "formal_name": "Irsko"
+  },
+  {
+    "id_alp2": "is",
+    "id_alp3": "isl",
+    "id_num": "352",
+    "name": "Island",
+    "formal_name": "Islandská republika"
+  },
+  {
+    "id_alp2": "it",
+    "id_alp3": "ita",
+    "id_num": "380",
+    "name": "Itálie",
+    "formal_name": "Italská republika"
+  },
+  {
+    "id_alp2": "il",
+    "id_alp3": "isr",
+    "id_num": "376",
+    "name": "Izrael",
+    "formal_name": "Stát Izrael"
+  },
+  {
+    "id_alp2": "jm",
+    "id_alp3": "jam",
+    "id_num": "388",
+    "name": "Jamajka",
+    "formal_name": "Jamajka"
+  },
+  {
+    "id_alp2": "jp",
+    "id_alp3": "jpn",
+    "id_num": "392",
+    "name": "Japonsko",
+    "formal_name": "Japonsko"
+  },
+  {
+    "id_alp2": "ye",
+    "id_alp3": "yem",
+    "id_num": "887",
+    "name": "Jemen",
+    "formal_name": "Jemenská republika"
+  },
+  {
+    "id_alp2": "za",
+    "id_alp3": "zaf",
+    "id_num": "710",
+    "name": "Jihoafrická republika",
+    "formal_name": "Jihoafrická republika"
+  },
+  {
+    "id_alp2": "kr",
+    "id_alp3": "kor",
+    "id_num": "410",
+    "name": "Jižní Korea",
+    "formal_name": "Korejská republika"
+  },
+  {
+    "id_alp2": "ss",
+    "id_alp3": "ssd",
+    "id_num": "728",
+    "name": "Jižní Súdán",
+    "formal_name": "Jihosúdánská republika"
+  },
+  {
+    "id_alp2": "jo",
+    "id_alp3": "jor",
+    "id_num": "400",
+    "name": "Jordánsko",
+    "formal_name": "Jordánské hášimovské království"
+  },
+  {
+    "id_alp2": "kh",
+    "id_alp3": "khm",
+    "id_num": "116",
+    "name": "Kambodža",
+    "formal_name": "Kambodžské království"
+  },
+  {
+    "id_alp2": "cm",
+    "id_alp3": "cmr",
+    "id_num": "120",
+    "name": "Kamerun",
+    "formal_name": "Kamerunská republika"
+  },
+  {
+    "id_alp2": "ca",
+    "id_alp3": "can",
+    "id_num": "124",
+    "name": "Kanada",
+    "formal_name": "Kanada"
+  },
+  {
+    "id_alp2": "cv",
+    "id_alp3": "cpv",
+    "id_num": "132",
+    "name": "Kapverdy",
+    "formal_name": "Kapverdská republika"
+  },
+  {
+    "id_alp2": "qa",
+    "id_alp3": "qat",
+    "id_num": "634",
+    "name": "Katar",
+    "formal_name": "Stát Katar"
+  },
+  {
+    "id_alp2": "kz",
+    "id_alp3": "kaz",
+    "id_num": "398",
+    "name": "Kazachstán",
+    "formal_name": "Republika Kazachstán"
+  },
+  {
+    "id_alp2": "ke",
+    "id_alp3": "ken",
+    "id_num": "404",
+    "name": "Keňa",
+    "formal_name": "Keňská republika"
+  },
+  {
+    "id_alp2": "ki",
+    "id_alp3": "kir",
+    "id_num": "296",
+    "name": "Kiribati",
+    "formal_name": "Republika Kiribati"
+  },
+  {
+    "id_alp2": "co",
+    "id_alp3": "col",
+    "id_num": "170",
+    "name": "Kolumbie",
+    "formal_name": "Kolumbijská republika"
+  },
+  {
+    "id_alp2": "km",
+    "id_alp3": "com",
+    "id_num": "174",
+    "name": "Komory",
+    "formal_name": "Komorský svaz"
+  },
+  {
+    "id_alp2": "cr",
+    "id_alp3": "cri",
+    "id_num": "188",
+    "name": "Kostarika",
+    "formal_name": "Kostarická republika"
+  },
+  {
+    "id_alp2": "cu",
+    "id_alp3": "cub",
+    "id_num": "192",
+    "name": "Kuba",
+    "formal_name": "Kubánská republika"
+  },
+  {
+    "id_alp2": "kw",
+    "id_alp3": "kwt",
+    "id_num": "414",
+    "name": "Kuvajt",
+    "formal_name": "Stát Kuvajt"
+  },
+  {
+    "id_alp2": "cy",
+    "id_alp3": "cyp",
+    "id_num": "196",
+    "name": "Kypr",
+    "formal_name": "Kyperská republika"
+  },
+  {
+    "id_alp2": "kg",
+    "id_alp3": "kgz",
+    "id_num": "417",
+    "name": "Kyrgyzstán",
+    "formal_name": "Kyrgyzská republika"
+  },
+  {
+    "id_alp2": "la",
+    "id_alp3": "lao",
+    "id_num": "418",
+    "name": "Laos",
+    "formal_name": "Laoská lidově demokratická republika"
+  },
+  {
+    "id_alp2": "ls",
+    "id_alp3": "lso",
+    "id_num": "426",
+    "name": "Lesotho",
+    "formal_name": "Lesothské království"
+  },
+  {
+    "id_alp2": "lb",
+    "id_alp3": "lbn",
+    "id_num": "422",
+    "name": "Libanon",
+    "formal_name": "Libanonská republika"
+  },
+  {
+    "id_alp2": "lr",
+    "id_alp3": "lbr",
+    "id_num": "430",
+    "name": "Libérie",
+    "formal_name": "Liberijská republika"
+  },
+  {
+    "id_alp2": "ly",
+    "id_alp3": "lby",
+    "id_num": "434",
+    "name": "Libye",
+    "formal_name": "Libyjský stát"
+  },
+  {
+    "id_alp2": "li",
+    "id_alp3": "lie",
+    "id_num": "438",
+    "name": "Lichtenštejnsko",
+    "formal_name": "Lichtenštejnské knížectví"
+  },
+  {
+    "id_alp2": "lt",
+    "id_alp3": "ltu",
+    "id_num": "440",
+    "name": "Litva",
+    "formal_name": "Litevská republika"
+  },
+  {
+    "id_alp2": "lv",
+    "id_alp3": "lva",
+    "id_num": "428",
+    "name": "Lotyšsko",
+    "formal_name": "Lotyšská republika"
+  },
+  {
+    "id_alp2": "lu",
+    "id_alp3": "lux",
+    "id_num": "442",
+    "name": "Lucembursko",
+    "formal_name": "Lucemburské velkovévodství"
+  },
+  {
+    "id_alp2": "mg",
+    "id_alp3": "mdg",
+    "id_num": "450",
+    "name": "Madagaskar",
+    "formal_name": "Madagaskarská republika"
+  },
+  {
+    "id_alp2": "hu",
+    "id_alp3": "hun",
+    "id_num": "348",
+    "name": "Maďarsko",
+    "formal_name": "Maďarsko"
+  },
+  {
+    "id_alp2": "my",
+    "id_alp3": "mys",
+    "id_num": "458",
+    "name": "Malajsie",
+    "formal_name": "Malajsie"
+  },
+  {
+    "id_alp2": "mw",
+    "id_alp3": "mwi",
+    "id_num": "454",
+    "name": "Malawi",
+    "formal_name": "Malawiská republika"
+  },
+  {
+    "id_alp2": "mv",
+    "id_alp3": "mdv",
+    "id_num": "462",
+    "name": "Maledivy",
+    "formal_name": "Maledivská republika"
+  },
+  {
+    "id_alp2": "ml",
+    "id_alp3": "mli",
+    "id_num": "466",
+    "name": "Mali",
+    "formal_name": "Republika Mali"
+  },
+  {
+    "id_alp2": "mt",
+    "id_alp3": "mlt",
+    "id_num": "470",
+    "name": "Malta",
+    "formal_name": "Maltská republika"
+  },
+  {
+    "id_alp2": "ma",
+    "id_alp3": "mar",
+    "id_num": "504",
+    "name": "Maroko",
+    "formal_name": "Marocké království"
+  },
+  {
+    "id_alp2": "mh",
+    "id_alp3": "mhl",
+    "id_num": "584",
+    "name": "Marshallovy ostrovy",
+    "formal_name": "Republika Marshallovy ostrovy"
+  },
+  {
+    "id_alp2": "mu",
+    "id_alp3": "mus",
+    "id_num": "480",
+    "name": "Mauricius",
+    "formal_name": "Mauricijská republika"
+  },
+  {
+    "id_alp2": "mr",
+    "id_alp3": "mrt",
+    "id_num": "478",
+    "name": "Mauritánie",
+    "formal_name": "Mauritánská islámská republika"
+  },
+  {
+    "id_alp2": "mx",
+    "id_alp3": "mex",
+    "id_num": "484",
+    "name": "Mexiko",
+    "formal_name": "Spojené státy mexické"
+  },
+  {
+    "id_alp2": "fm",
+    "id_alp3": "fsm",
+    "id_num": "583",
+    "name": "Mikronésie",
+    "formal_name": "Federativní státy Mikronésie"
+  },
+  {
+    "id_alp2": "md",
+    "id_alp3": "mda",
+    "id_num": "498",
+    "name": "Moldavsko",
+    "formal_name": "Moldavská republika"
+  },
+  {
+    "id_alp2": "mc",
+    "id_alp3": "mco",
+    "id_num": "492",
+    "name": "Monako",
+    "formal_name": "Monacké knížectví"
+  },
+  {
+    "id_alp2": "mn",
+    "id_alp3": "mng",
+    "id_num": "496",
+    "name": "Mongolsko",
+    "formal_name": "Mongolsko"
+  },
+  {
+    "id_alp2": "mz",
+    "id_alp3": "moz",
+    "id_num": "508",
+    "name": "Mosambik",
+    "formal_name": "Mosambická republika"
+  },
+  {
+    "id_alp2": "na",
+    "id_alp3": "nam",
+    "id_num": "516",
+    "name": "Namibie",
+    "formal_name": "Namibijská republika"
+  },
+  {
+    "id_alp2": "nr",
+    "id_alp3": "nru",
+    "id_num": "520",
+    "name": "Nauru",
+    "formal_name": "Republika Nauru"
+  },
+  {
+    "id_alp2": "de",
+    "id_alp3": "deu",
+    "id_num": "276",
+    "name": "Německo",
+    "formal_name": "Spolková republika Německo"
+  },
+  {
+    "id_alp2": "np",
+    "id_alp3": "npl",
+    "id_num": "524",
+    "name": "Nepál",
+    "formal_name": "Nepálská federativní demokratická republika"
+  },
+  {
+    "id_alp2": "ng",
+    "id_alp3": "nga",
+    "id_num": "566",
+    "name": "Nigérie",
+    "formal_name": "Nigerijská federativní republika"
+  },
+  {
+    "id_alp2": "ni",
+    "id_alp3": "nic",
+    "id_num": "558",
+    "name": "Nikaragua",
+    "formal_name": "Nikaragujská republika"
+  },
+  {
+    "id_alp2": "nl",
+    "id_alp3": "nld",
+    "id_num": "528",
+    "name": "Nizozemsko",
+    "formal_name": "Nizozemské království"
+  },
+  {
+    "id_alp2": "no",
+    "id_alp3": "nor",
+    "id_num": "578",
+    "name": "Norsko",
+    "formal_name": "Norské království"
+  },
+  {
+    "id_alp2": "nz",
+    "id_alp3": "nzl",
+    "id_num": "554",
+    "name": "Nový Zéland",
+    "formal_name": "Nový Zéland"
+  },
+  {
+    "id_alp2": "om",
+    "id_alp3": "omn",
+    "id_num": "512",
+    "name": "Omán",
+    "formal_name": "Sultanát Omán"
+  },
+  {
+    "id_alp2": "pk",
+    "id_alp3": "pak",
+    "id_num": "586",
+    "name": "Pákistán",
+    "formal_name": "Pákistánská islámská republika"
+  },
+  {
+    "id_alp2": "pw",
+    "id_alp3": "plw",
+    "id_num": "585",
+    "name": "Palau",
+    "formal_name": "Republika Palau"
+  },
+  {
+    "id_alp2": "pa",
+    "id_alp3": "pan",
+    "id_num": "591",
+    "name": "Panama",
+    "formal_name": "Panamská republika"
+  },
+  {
+    "id_alp2": "py",
+    "id_alp3": "pry",
+    "id_num": "600",
+    "name": "Paraguay",
+    "formal_name": "Paraguayská republika"
+  },
+  {
+    "id_alp2": "pe",
+    "id_alp3": "per",
+    "id_num": "604",
+    "name": "Peru",
+    "formal_name": "Peruánská republika"
+  },
+  {
+    "id_alp2": "ci",
+    "id_alp3": "civ",
+    "id_num": "384",
+    "name": "Pobřeží slonoviny",
+    "formal_name": "Republika Pobřeží slonoviny"
+  },
+  {
+    "id_alp2": "pl",
+    "id_alp3": "pol",
+    "id_num": "616",
+    "name": "Polsko",
+    "formal_name": "Polská republika"
+  },
+  {
+    "id_alp2": "pt",
+    "id_alp3": "prt",
+    "id_num": "620",
+    "name": "Portugalsko",
+    "formal_name": "Portugalská republika"
+  },
+  {
+    "id_alp2": "at",
+    "id_alp3": "aut",
+    "id_num": "040",
+    "name": "Rakousko",
+    "formal_name": "Rakouská republika"
+  },
+  {
+    "id_alp2": "gr",
+    "id_alp3": "grc",
+    "id_num": "300",
+    "name": "Řecko",
+    "formal_name": "Řecká republika"
+  },
+  {
+    "id_alp2": "gq",
+    "id_alp3": "gnq",
+    "id_num": "226",
+    "name": "Rovníková Guinea",
+    "formal_name": "Republika Rovníková Guinea"
+  },
+  {
+    "id_alp2": "ro",
+    "id_alp3": "rou",
+    "id_num": "642",
+    "name": "Rumunsko",
+    "formal_name": "Rumunsko"
+  },
+  {
+    "id_alp2": "ru",
+    "id_alp3": "rus",
+    "id_num": "643",
+    "name": "Rusko",
+    "formal_name": "Ruská federace"
+  },
+  {
+    "id_alp2": "rw",
+    "id_alp3": "rwa",
+    "id_num": "646",
+    "name": "Rwanda",
+    "formal_name": "Rwandská republika"
+  },
+  {
+    "id_alp2": "sb",
+    "id_alp3": "slb",
+    "id_num": "090",
+    "name": "Šalomounovy ostrovy",
+    "formal_name": "Šalomounovy ostrovy"
+  },
+  {
+    "id_alp2": "sv",
+    "id_alp3": "slv",
+    "id_num": "222",
+    "name": "Salvador",
+    "formal_name": "Salvadorská republika"
+  },
+  {
+    "id_alp2": "ws",
+    "id_alp3": "wsm",
+    "id_num": "882",
+    "name": "Samoa",
+    "formal_name": "Nezávislý stát Samoa"
+  },
+  {
+    "id_alp2": "sm",
+    "id_alp3": "smr",
+    "id_num": "674",
+    "name": "San Marino",
+    "formal_name": "Republika San Marino"
+  },
+  {
+    "id_alp2": "sa",
+    "id_alp3": "sau",
+    "id_num": "682",
+    "name": "Saúdská Arábie",
+    "formal_name": "Království Saúdská Arábie"
+  },
+  {
+    "id_alp2": "sn",
+    "id_alp3": "sen",
+    "id_num": "686",
+    "name": "Senegal",
+    "formal_name": "Senegalská republika"
+  },
+  {
+    "id_alp2": "kp",
+    "id_alp3": "prk",
+    "id_num": "408",
+    "name": "Severní Korea",
+    "formal_name": "Korejská lidově demokratická republika"
+  },
+  {
+    "id_alp2": "mk",
+    "id_alp3": "mkd",
+    "id_num": "807",
+    "name": "Severní Makedonie",
+    "formal_name": "Republika Severní Makedonie"
+  },
+  {
+    "id_alp2": "sc",
+    "id_alp3": "syc",
+    "id_num": "690",
+    "name": "Seychely",
+    "formal_name": "Seychelská republika"
+  },
+  {
+    "id_alp2": "sl",
+    "id_alp3": "sle",
+    "id_num": "694",
+    "name": "Sierra Leone",
+    "formal_name": "Republika Sierra Leone"
+  },
+  {
+    "id_alp2": "sg",
+    "id_alp3": "sgp",
+    "id_num": "702",
+    "name": "Singapur",
+    "formal_name": "Singapurská republika"
+  },
+  {
+    "id_alp2": "sk",
+    "id_alp3": "svk",
+    "id_num": "703",
+    "name": "Slovensko",
+    "formal_name": "Slovenská republika"
+  },
+  {
+    "id_alp2": "si",
+    "id_alp3": "svn",
+    "id_num": "705",
+    "name": "Slovinsko",
+    "formal_name": "Slovinská republika"
+  },
+  {
+    "id_alp2": "so",
+    "id_alp3": "som",
+    "id_num": "706",
+    "name": "Somálsko",
+    "formal_name": "Somálská federativní republika"
+  },
+  {
+    "id_alp2": "es",
+    "id_alp3": "esp",
+    "id_num": "724",
+    "name": "Španělsko",
+    "formal_name": "Španělské království"
+  },
+  {
+    "id_alp2": "ae",
+    "id_alp3": "are",
+    "id_num": "784",
+    "name": "Spojené arabské emiráty",
+    "formal_name": "Spojené arabské emiráty"
+  },
+  {
+    "id_alp2": "gb",
+    "id_alp3": "gbr",
+    "id_num": "826",
+    "name": "Spojené království",
+    "formal_name": "Spojené království Velké Británie a Severního Irska"
+  },
+  {
+    "id_alp2": "us",
+    "id_alp3": "usa",
+    "id_num": "840",
+    "name": "Spojené státy americké",
+    "formal_name": "Spojené státy americké"
+  },
+  {
+    "id_alp2": "rs",
+    "id_alp3": "srb",
+    "id_num": "688",
+    "name": "Srbsko",
+    "formal_name": "Srbská republika"
+  },
+  {
+    "id_alp2": "lk",
+    "id_alp3": "lka",
+    "id_num": "144",
+    "name": "Srí Lanka",
+    "formal_name": "Srílanská demokratická socialistická republika"
+  },
+  {
+    "id_alp2": "cf",
+    "id_alp3": "caf",
+    "id_num": "140",
+    "name": "Středoafrická republika",
+    "formal_name": "Středoafrická republika"
+  },
+  {
+    "id_alp2": "sd",
+    "id_alp3": "sdn",
+    "id_num": "729",
+    "name": "Súdán",
+    "formal_name": "Súdánská republika"
+  },
+  {
+    "id_alp2": "sr",
+    "id_alp3": "sur",
+    "id_num": "740",
+    "name": "Surinam",
+    "formal_name": "Surinamská republika"
+  },
+  {
+    "id_alp2": "lc",
+    "id_alp3": "lca",
+    "id_num": "662",
+    "name": "Svatá Lucie",
+    "formal_name": "Svatá Lucie"
+  },
+  {
+    "id_alp2": "kn",
+    "id_alp3": "kna",
+    "id_num": "659",
+    "name": "Svatý Kryštof a Nevis",
+    "formal_name": "Federace Svatý Kryštof a Nevis"
+  },
+  {
+    "id_alp2": "st",
+    "id_alp3": "stp",
+    "id_num": "678",
+    "name": "Svatý Tomáš a Princův ostrov",
+    "formal_name": "Demokratická republika Svatý Tomáš a Princův ostrov"
+  },
+  {
+    "id_alp2": "vc",
+    "id_alp3": "vct",
+    "id_num": "670",
+    "name": "Svatý Vincenc a Grenadiny",
+    "formal_name": "Svatý Vincenc a Grenadiny"
+  },
+  {
+    "id_alp2": "sz",
+    "id_alp3": "swz",
+    "id_num": "748",
+    "name": "Svazijsko",
+    "formal_name": "Svazijské království"
+  },
+  {
+    "id_alp2": "se",
+    "id_alp3": "swe",
+    "id_num": "752",
+    "name": "Švédsko",
+    "formal_name": "Švédské království"
+  },
+  {
+    "id_alp2": "ch",
+    "id_alp3": "che",
+    "id_num": "756",
+    "name": "Švýcarsko",
+    "formal_name": "Švýcarská konfederace"
+  },
+  {
+    "id_alp2": "sy",
+    "id_alp3": "syr",
+    "id_num": "760",
+    "name": "Sýrie",
+    "formal_name": "Syrská arabská republika"
+  },
+  {
+    "id_alp2": "tj",
+    "id_alp3": "tjk",
+    "id_num": "762",
+    "name": "Tádžikistán",
+    "formal_name": "Republika Tádžikistán"
+  },
+  {
+    "id_alp2": "tz",
+    "id_alp3": "tza",
+    "id_num": "834",
+    "name": "Tanzanie",
+    "formal_name": "Tanzanská sjednocená republika"
+  },
+  {
+    "id_alp2": "th",
+    "id_alp3": "tha",
+    "id_num": "764",
+    "name": "Thajsko",
+    "formal_name": "Thajské království"
+  },
+  {
+    "id_alp2": "tg",
+    "id_alp3": "tgo",
+    "id_num": "768",
+    "name": "Togo",
+    "formal_name": "Tožská republika"
+  },
+  {
+    "id_alp2": "to",
+    "id_alp3": "ton",
+    "id_num": "776",
+    "name": "Tonga",
+    "formal_name": "Království Tonga"
+  },
+  {
+    "id_alp2": "tt",
+    "id_alp3": "tto",
+    "id_num": "780",
+    "name": "Trinidad a Tobago",
+    "formal_name": "Republika Trinidad a Tobago"
+  },
+  {
+    "id_alp2": "tn",
+    "id_alp3": "tun",
+    "id_num": "788",
+    "name": "Tunisko",
+    "formal_name": "Tuniská republika"
+  },
+  {
+    "id_alp2": "tr",
+    "id_alp3": "tur",
+    "id_num": "792",
+    "name": "Turecko",
+    "formal_name": "Turecká republika"
+  },
+  {
+    "id_alp2": "tm",
+    "id_alp3": "tkm",
+    "id_num": "795",
+    "name": "Turkmenistán",
+    "formal_name": "Turkmenistán"
+  },
+  {
+    "id_alp2": "tv",
+    "id_alp3": "tuv",
+    "id_num": "798",
+    "name": "Tuvalu",
+    "formal_name": "Tuvalu"
+  },
+  {
+    "id_alp2": "ug",
+    "id_alp3": "uga",
+    "id_num": "800",
+    "name": "Uganda",
+    "formal_name": "Ugandská republika"
+  },
+  {
+    "id_alp2": "ua",
+    "id_alp3": "ukr",
+    "id_num": "804",
+    "name": "Ukrajina",
+    "formal_name": "Ukrajina"
+  },
+  {
+    "id_alp2": "uy",
+    "id_alp3": "ury",
+    "id_num": "858",
+    "name": "Uruguay",
+    "formal_name": "Uruguayská východní republika"
+  },
+  {
+    "id_alp2": "uz",
+    "id_alp3": "uzb",
+    "id_num": "860",
+    "name": "Uzbekistán",
+    "formal_name": "Republika Uzbekistán"
+  },
+  {
+    "id_alp2": "vu",
+    "id_alp3": "vut",
+    "id_num": "548",
+    "name": "Vanuatu",
+    "formal_name": "Republika Vanuatu"
+  },
+  {
+    "id_alp2": "va",
+    "id_alp3": "vat",
+    "id_num": "336",
+    "name": "Vatikán",
+    "formal_name": "Městský stát Vatikán"
+  },
+  {
+    "id_alp2": "ve",
+    "id_alp3": "ven",
+    "id_num": "862",
+    "name": "Venezuela",
+    "formal_name": "Bolívarovská republika Venezuela"
+  },
+  {
+    "id_alp2": "vn",
+    "id_alp3": "vnm",
+    "id_num": "704",
+    "name": "Vietnam",
+    "formal_name": "Vietnamská socialistická republika"
+  },
+  {
+    "id_alp2": "tl",
+    "id_alp3": "tls",
+    "id_num": "626",
+    "name": "Východní Timor",
+    "formal_name": "Demokratická republika Východní Timor"
+  },
+  {
+    "id_alp2": "zm",
+    "id_alp3": "zmb",
+    "id_num": "894",
+    "name": "Zambie",
+    "formal_name": "Zambijská republika"
+  },
+  {
+    "id_alp2": "zw",
+    "id_alp3": "zwe",
+    "id_num": "716",
+    "name": "Zimbabwe",
+    "formal_name": "Zimbabwská republika"
+  }
+]

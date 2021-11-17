@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tabulka",
+    "name": "Tabulka"
+  },
+  {
+    "id": "mapa",
+    "name": "Mapa"
+  },
+  {
+    "id": "sloupcovy_graf",
+    "name": "Sloupcový graf"
+  },
+  {
+    "id": "liniovy_graf",
+    "name": "Liniový graf"
+  },
+  {
+    "id": "kolacovy_graf",
+    "name": "Koláčový graf"
+  }
+]
