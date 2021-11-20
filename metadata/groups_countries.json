@@ -292,5 +292,14 @@
   { "group_id": "svet", "country_id_alp2": "vn", "joined": null, "left_": null },
   { "group_id": "svet", "country_id_alp2": "tl", "joined": null, "left_": null },
   { "group_id": "svet", "country_id_alp2": "zm", "joined": null, "left_": null },
-  { "group_id": "svet", "country_id_alp2": "zw", "joined": null, "left_": null }
+  { "group_id": "svet", "country_id_alp2": "zw", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "mr", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "hk", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "pg", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "tw", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "ps", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "cd", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "cg", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "gn", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "ne", "joined": null, "left_": null }
 ]

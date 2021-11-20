@@ -1314,5 +1314,68 @@
     "id_num": "716",
     "name": "Zimbabwe",
     "formal_name": "Zimbabwská republika"
+  },
+  {
+    "id_alp2": "mr",
+    "id_alp3": "mmr",
+    "id_num": "104",
+    "name": "Myanmar",
+    "formal_name": "Republika Myanmarský svaz"
+  },
+  {
+    "id_alp2": "hk",
+    "id_alp3": "hkg",
+    "id_num": "344",
+    "name": "Hongkong",
+    "formal_name": "Zvláštní administrativní oblast Čínské lidové republiky Hongkong"
+  },
+  {
+    "id_alp2": "pg",
+    "id_alp3": "png",
+    "id_num": "598",
+    "name": "Papua Nová Guinea",
+    "formal_name": "Nezávislý stát Papua Nová Guinea"
+  },
+  {
+    "id_alp2": "tw",
+    "id_alp3": "twn",
+    "id_num": "158",
+    "name": "Tchaj-wan",
+    "formal_name": "Čínská republika"
+  },
+  {
+    "id_alp2": "ps",
+    "id_alp3": "pse",
+    "id_num": "275",
+    "name": "Palestina",
+    "formal_name": "Palestinská autonomie"
+  },
+  {
+    "id_alp2": "cd",
+    "id_alp3": "cod",
+    "id_num": "180",
+    "name": "Kongo-Kinshasa",
+    "formal_name": "Demokratická republika Kongo"
+  },
+  {
+    "id_alp2": "cg",
+    "id_alp3": "cog",
+    "id_num": "178",
+    "name": "Kongo-Brazzaville",
+    "formal_name": "Konžská republika"
+  },
+  {
+    "id_alp2": "gn",
+    "id_alp3": "gin",
+    "id_num": "324",
+    "name": "Guinea",
+    "formal_name": "Guinejská republika"
+  },
+  {
+    "id_alp2": "ne",
+    "id_alp3": "ner",
+    "id_num": "562",
+    "name": "Niger",
+    "formal_name": "Nigerská republika"
   }
 ]
