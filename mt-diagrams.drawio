@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T19:07:05.429Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="KuCmeOYhdV2UG79RUapA" version="16.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-09T19:45:24.009Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="x2VaxqjLa4yM5kiHrGtc" version="16.2.4" type="github" pages="5">
   <diagram id="kH-cvfQmTH0HUtTJLrTg" name="Page-1">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,24 +167,60 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_Y-sAZSNQe_f_3IvDXn0" name="Page-4">
-    <mxGraphModel dx="813" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0K9R5w3egiQ347mnIRQe-0" />
         <mxCell id="0K9R5w3egiQ347mnIRQe-1" parent="0K9R5w3egiQ347mnIRQe-0" />
-        <mxCell id="0K9R5w3egiQ347mnIRQe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="0K9R5w3egiQ347mnIRQe-1" source="0K9R5w3egiQ347mnIRQe-3" target="0K9R5w3egiQ347mnIRQe-4">
+        <mxCell id="0K9R5w3egiQ347mnIRQe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;fontFamily=Verdana;fontSize=11;" parent="0K9R5w3egiQ347mnIRQe-1" source="0K9R5w3egiQ347mnIRQe-3" target="0K9R5w3egiQ347mnIRQe-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0K9R5w3egiQ347mnIRQe-3" value="Databáze" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7.200000000000017;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;fontSize=11;" vertex="1" parent="0K9R5w3egiQ347mnIRQe-1">
-          <mxGeometry x="40" y="40" width="70" height="70" as="geometry" />
+        <mxCell id="0K9R5w3egiQ347mnIRQe-3" value="Databáze" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7.200000000000017;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;fontSize=11;" parent="0K9R5w3egiQ347mnIRQe-1" vertex="1">
+          <mxGeometry x="80" y="80" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0K9R5w3egiQ347mnIRQe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontFamily=Verdana;fontSize=11;" edge="1" parent="0K9R5w3egiQ347mnIRQe-1" source="0K9R5w3egiQ347mnIRQe-4" target="0K9R5w3egiQ347mnIRQe-6">
+        <mxCell id="0K9R5w3egiQ347mnIRQe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontFamily=Verdana;fontSize=11;" parent="0K9R5w3egiQ347mnIRQe-1" source="0K9R5w3egiQ347mnIRQe-4" target="0K9R5w3egiQ347mnIRQe-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0K9R5w3egiQ347mnIRQe-4" value="Systém řízení báze dat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;fontSize=11;" vertex="1" parent="0K9R5w3egiQ347mnIRQe-1">
-          <mxGeometry x="150" y="50" width="100" height="50" as="geometry" />
+        <mxCell id="0K9R5w3egiQ347mnIRQe-4" value="Systém řízení báze dat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;fontSize=11;" parent="0K9R5w3egiQ347mnIRQe-1" vertex="1">
+          <mxGeometry x="190" y="90" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0K9R5w3egiQ347mnIRQe-6" value="Aplikace / &lt;br style=&quot;font-size: 11px;&quot;&gt;uživatel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Verdana;fontSize=11;" vertex="1" parent="0K9R5w3egiQ347mnIRQe-1">
-          <mxGeometry x="290" y="50" width="100" height="50" as="geometry" />
+        <mxCell id="0K9R5w3egiQ347mnIRQe-6" value="Aplikace / &lt;br style=&quot;font-size: 11px;&quot;&gt;uživatel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Verdana;fontSize=11;" parent="0K9R5w3egiQ347mnIRQe-1" vertex="1">
+          <mxGeometry x="330" y="90" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ah_jXX963XWA64OHZfoR" name="Page-5">
+    <mxGraphModel dx="1108" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="nkQdLHP66zWlr9kYQ0H4-0" />
+        <mxCell id="nkQdLHP66zWlr9kYQ0H4-1" parent="nkQdLHP66zWlr9kYQ0H4-0" />
+        <mxCell id="tGLq-iyhy5FH_3F2a8et-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Verdana;fontSize=14;startArrow=classic;startFill=1;" edge="1" parent="nkQdLHP66zWlr9kYQ0H4-1" source="tGLq-iyhy5FH_3F2a8et-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="181" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="181" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGLq-iyhy5FH_3F2a8et-5" value="Provozní aplikace&amp;nbsp;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontFamily=Verdana;fontSize=13;aspect=fixed;" vertex="1" parent="nkQdLHP66zWlr9kYQ0H4-1">
+          <mxGeometry x="70" y="60" width="80" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="tGLq-iyhy5FH_3F2a8et-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;startArrow=classic;startFill=1;" edge="1" parent="nkQdLHP66zWlr9kYQ0H4-1" source="tGLq-iyhy5FH_3F2a8et-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGLq-iyhy5FH_3F2a8et-8" value="Datová analýza" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontFamily=Verdana;fontSize=13;aspect=fixed;" vertex="1" parent="nkQdLHP66zWlr9kYQ0H4-1">
+          <mxGeometry x="310" y="60" width="80" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="tGLq-iyhy5FH_3F2a8et-17" value="OLTP databáze" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9.720930232558118;fontFamily=Verdana;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="nkQdLHP66zWlr9kYQ0H4-1">
+          <mxGeometry x="70" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tGLq-iyhy5FH_3F2a8et-18" value="OLAP databáze" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9.720930232558118;fontFamily=Verdana;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="nkQdLHP66zWlr9kYQ0H4-1">
+          <mxGeometry x="310" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tGLq-iyhy5FH_3F2a8et-19" value="ETL proces" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontFamily=Verdana;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nkQdLHP66zWlr9kYQ0H4-1">
+          <mxGeometry x="180" y="185" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
