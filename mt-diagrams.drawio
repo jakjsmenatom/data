@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T13:51:12.007Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="wBrmYoWdv1FbqWEelESD" version="16.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-13T13:56:50.092Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="wsL_bKI6JuYuC5zlsGGg" version="16.2.4" type="github" pages="7">
   <diagram id="kH-cvfQmTH0HUtTJLrTg" name="Page-1">
     <mxGraphModel dx="1662" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -230,54 +230,54 @@
       <root>
         <mxCell id="IJPQfMk1MpmPnT0iCWqC-0" />
         <mxCell id="IJPQfMk1MpmPnT0iCWqC-1" parent="IJPQfMk1MpmPnT0iCWqC-0" />
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-51" value="Označená trénovací data" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#f5f5f5;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=#666666;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-51" value="Označená trénovací data" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
           <mxGeometry width="200" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-7" value="Model" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-7" value="Model" style="sketch=0;outlineConnect=0;fontColor=#000000;gradientColor=none;fillColor=#000000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;fontFamily=Verdana;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
           <mxGeometry x="290" y="56" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-37" value="Jablko" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_maca-128.png;fontColor=#000000;fillColor=#000000;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-37" value="Jablko" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_maca-128.png;fontColor=#000000;fillColor=#000000;fontFamily=Verdana;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
           <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-41" value="Banán" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_banana-128.png;fontColor=#000000;fillColor=#000000;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-41" value="Banán" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_banana-128.png;fontColor=#000000;fillColor=#000000;fontFamily=Verdana;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
           <mxGeometry x="10" y="100" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-46" value="Jablko" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_maca-128.png;fontColor=#000000;fillColor=#000000;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-46" value="Jablko" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_maca-128.png;fontColor=#000000;fillColor=#000000;fontFamily=Verdana;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
           <mxGeometry x="70" y="10" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-47" value="Jablko" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_maca-128.png;fontColor=#000000;fillColor=#000000;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-47" value="Jablko" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_maca-128.png;fontColor=#000000;fillColor=#000000;fontFamily=Verdana;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
           <mxGeometry x="130" y="10" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="IJPQfMk1MpmPnT0iCWqC-1" source="IJPQfMk1MpmPnT0iCWqC-51" target="IJPQfMk1MpmPnT0iCWqC-7">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;fontFamily=Verdana;" edge="1" parent="IJPQfMk1MpmPnT0iCWqC-1" source="IJPQfMk1MpmPnT0iCWqC-51" target="IJPQfMk1MpmPnT0iCWqC-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-55" value="Trénování" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="IJPQfMk1MpmPnT0iCWqC-53">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-55" value="Trénování" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;fontFamily=Verdana;" vertex="1" connectable="0" parent="IJPQfMk1MpmPnT0iCWqC-53">
           <mxGeometry x="0.3029" relative="1" as="geometry">
             <mxPoint x="-15" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-57" value="Banán" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_banana-128.png;fontColor=#000000;fillColor=#000000;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-57" value="Banán" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_banana-128.png;fontColor=#000000;fillColor=#000000;fontFamily=Verdana;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
           <mxGeometry x="70" y="100" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-58" value="Banán" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_banana-128.png;fontColor=#000000;fillColor=#000000;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-58" value="Banán" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_banana-128.png;fontColor=#000000;fillColor=#000000;fontFamily=Verdana;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
           <mxGeometry x="130" y="100" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-59" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#f5f5f5;arrowWidth=0.37356321839080425;arrowSize=0.47965517241379246;rotation=-180;strokeWidth=1;strokeColor=#666666;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-59" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#DEDEDE;arrowWidth=0.37356321839080425;arrowSize=0.47965517241379246;rotation=-180;strokeWidth=1;strokeColor=#000000;fontFamily=Verdana;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
           <mxGeometry x="386" y="76.25" width="60" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000099;" edge="1" parent="IJPQfMk1MpmPnT0iCWqC-1" source="IJPQfMk1MpmPnT0iCWqC-60" target="IJPQfMk1MpmPnT0iCWqC-63">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000099;fontFamily=Verdana;" edge="1" parent="IJPQfMk1MpmPnT0iCWqC-1" source="IJPQfMk1MpmPnT0iCWqC-60" target="IJPQfMk1MpmPnT0iCWqC-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-60" value="Natrénovaný model" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000099;strokeColor=none;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;labelPosition=center;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-60" value="Natrénovaný model" style="sketch=0;outlineConnect=0;fontColor=#000000;gradientColor=none;fillColor=#000099;strokeColor=none;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;labelPosition=center;fontFamily=Verdana;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
           <mxGeometry x="460" y="56" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="IJPQfMk1MpmPnT0iCWqC-1" source="IJPQfMk1MpmPnT0iCWqC-61" target="IJPQfMk1MpmPnT0iCWqC-60">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#000000;fontFamily=Verdana;" edge="1" parent="IJPQfMk1MpmPnT0iCWqC-1" source="IJPQfMk1MpmPnT0iCWqC-61" target="IJPQfMk1MpmPnT0iCWqC-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-61" value="Co je to?" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_banana-128.png;fontColor=#000000;fillColor=#000000;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-61" value="Co je to?" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_banana-128.png;fontColor=#000000;fillColor=#000000;fontFamily=Verdana;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
           <mxGeometry x="469" y="170" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IJPQfMk1MpmPnT0iCWqC-63" value="Banán" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
+        <mxCell id="IJPQfMk1MpmPnT0iCWqC-63" value="Banán" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;strokeColor=#000000;fontColor=#000000;fontFamily=Verdana;" vertex="1" parent="IJPQfMk1MpmPnT0iCWqC-1">
           <mxGeometry x="570" y="67" width="80" height="56" as="geometry" />
         </mxCell>
       </root>
