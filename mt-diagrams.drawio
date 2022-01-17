@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T09:07:58.808Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ydX_C1Grt76esQYw5h_S" version="16.2.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-17T13:55:38.591Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Fyf6XeXjggEUqIb2tXz1" version="16.2.7" type="github" pages="8">
   <diagram id="kH-cvfQmTH0HUtTJLrTg" name="Page-1">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -279,7 +279,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5NSBZ8iJ2aHFhkMOoazF" name="Page-7">
-    <mxGraphModel dx="836" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="P1zw5kKcRP8HmODLjdar-0" />
         <mxCell id="P1zw5kKcRP8HmODLjdar-1" parent="P1zw5kKcRP8HmODLjdar-0" />
@@ -342,7 +342,7 @@
         <mxCell id="AyWq4SlbG7nhZkTOrb1P-11" value="Data rozdělena do shluků" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontColor=#000000;" parent="P1zw5kKcRP8HmODLjdar-1" vertex="1">
           <mxGeometry x="360" y="140" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TOsg5NWODcn5pq-Cisip-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;fontColor=#000000;" edge="1" parent="P1zw5kKcRP8HmODLjdar-1">
+        <mxCell id="TOsg5NWODcn5pq-Cisip-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;fontColor=#000000;" parent="P1zw5kKcRP8HmODLjdar-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="321.5" y="69.5" as="sourcePoint" />
             <mxPoint x="360" y="70" as="targetPoint" />
@@ -351,6 +351,60 @@
               <mxPoint x="362" y="70" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YTrhiW2Z5E3DIcB8mk2w" name="Page-8">
+    <mxGraphModel dx="981" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="EpAkRH10pdA4armso0r8-0" />
+        <mxCell id="EpAkRH10pdA4armso0r8-1" parent="EpAkRH10pdA4armso0r8-0" />
+        <mxCell id="EpAkRH10pdA4armso0r8-11" value="klientský počítač" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="EpAkRH10pdA4armso0r8-1">
+          <mxGeometry x="40" y="58.75" width="80" height="121.25" as="geometry" />
+        </mxCell>
+        <mxCell id="EpAkRH10pdA4armso0r8-8" value="server" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="EpAkRH10pdA4armso0r8-1">
+          <mxGeometry x="240" y="40" width="210.8" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EpAkRH10pdA4armso0r8-3" value="souborový sytem" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folder;fontFamily=Verdana;fillColor=#dae8fc;" vertex="1" parent="EpAkRH10pdA4armso0r8-1">
+          <mxGeometry x="365.96" y="51.25" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EpAkRH10pdA4armso0r8-5" value="databáze" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontFamily=Verdana;" vertex="1" parent="EpAkRH10pdA4armso0r8-1">
+          <mxGeometry x="363.93" y="120" width="54.05" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EpAkRH10pdA4armso0r8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=-0.008;exitY=0.539;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="EpAkRH10pdA4armso0r8-1" source="EpAkRH10pdA4armso0r8-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="125" as="sourcePoint" />
+            <mxPoint x="120" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpAkRH10pdA4armso0r8-20" value="HTTP response" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];fontFamily=Verdana;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" connectable="0" parent="EpAkRH10pdA4armso0r8-18">
+          <mxGeometry x="-0.2538" relative="1" as="geometry">
+            <mxPoint x="-16" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpAkRH10pdA4armso0r8-21" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.026;exitY=0.287;exitDx=0;exitDy=0;entryX=0.029;entryY=0.58;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;startArrow=classic;startFill=1;endArrow=classic;endFill=1;curved=1;exitPerimeter=0;" edge="1" parent="EpAkRH10pdA4armso0r8-1" source="EpAkRH10pdA4armso0r8-7" target="EpAkRH10pdA4armso0r8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EpAkRH10pdA4armso0r8-22" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.011;exitY=0.73;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;startArrow=classic;startFill=1;endArrow=classic;endFill=1;curved=1;exitPerimeter=0;" edge="1" parent="EpAkRH10pdA4armso0r8-1" source="EpAkRH10pdA4armso0r8-7" target="EpAkRH10pdA4armso0r8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EpAkRH10pdA4armso0r8-7" value="aplikace" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;fontFamily=Verdana;" vertex="1" parent="EpAkRH10pdA4armso0r8-1">
+          <mxGeometry x="250.8" y="75" width="39.2" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EpAkRH10pdA4armso0r8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startArrow=none;startFill=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;entryX=-0.009;entryY=0.348;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="EpAkRH10pdA4armso0r8-1" target="EpAkRH10pdA4armso0r8-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="95" as="sourcePoint" />
+            <mxPoint x="220" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpAkRH10pdA4armso0r8-19" value="HTTP request" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontFamily=Verdana;labelPosition=center;verticalLabelPosition=top;" vertex="1" connectable="0" parent="EpAkRH10pdA4armso0r8-17">
+          <mxGeometry x="0.0663" y="1" relative="1" as="geometry">
+            <mxPoint x="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EpAkRH10pdA4armso0r8-13" value="webový&lt;br&gt;prohlížeč" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/apps/browser_alt.png;fontFamily=Verdana;" vertex="1" parent="EpAkRH10pdA4armso0r8-1">
+          <mxGeometry x="50" y="70" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
