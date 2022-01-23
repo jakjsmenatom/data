@@ -7,6 +7,7 @@
     "unit": null,
     "asc_ordering": false,
     "url_source": "https://data.worldbank.org/indicator/SH.STA.TRAF.P5",
+    "data_table": "infrastruktura__umrti_na_silnicich_na_pocet_obyvatel",
     "default_from": 1990,
     "default_to": 2020,
     "default_group_id": "svet",
