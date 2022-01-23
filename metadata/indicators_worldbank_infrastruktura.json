@@ -6,7 +6,7 @@
     "description": "Mortality caused by road traffic injury is estimated road traffic fatal injury deaths per 100,000 population.",
     "unit": null,
     "asc_ordering": false,
-    "url_source": "",
+    "url_source": "https://data.worldbank.org/indicator/SH.STA.TRAF.P5",
     "default_from": 1990,
     "default_to": 2020,
     "default_group_id": "svet",
