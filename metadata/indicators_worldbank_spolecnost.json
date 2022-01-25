@@ -64,6 +64,22 @@
     "category_id": "spolecnost"
   },
   {
+    "id": "pocet_vrazd_na_sto_tisic_obyvatel",
+    "abbreviation": "Počet vražd (na 100 000 obyvatel)",
+    "name": "Počet vražd (na 100 000 obyvatel)",
+    "description": "Intentional homicides are estimates of unlawful homicides purposely inflicted as a result of domestic disputes, interpersonal violence, violent conflicts over land resources, intergang violence over turf or control, and predatory violence and killing by armed groups. Intentional homicide does not include all intentional killing; the difference is usually in the organization of the killing. Individuals or small groups usually commit homicide, whereas killing in armed conflict is usually committed by fairly cohesive groups of up to several hundred members and is thus usually excluded.",
+    "unit": null,
+    "asc_ordering": false,
+    "url_source": "https://data.worldbank.org/indicator/VC.IHR.PSRC.P5",
+    "data_table": "spolecnost__pocet_vrazd_na_sto_tisic_obyvatel",
+    "default_from": 1990,
+    "default_to": 2020,
+    "default_group_id": "svet",
+    "default_chart_id": "tabulka",
+    "source_id": "svetova_banka",
+    "category_id": "spolecnost"
+  },
+  {
     "id": "remitence_obdrzene",
     "abbreviation": "Remitence, obdržené ($)",
     "name": "Remitence, obdržené ($)",
