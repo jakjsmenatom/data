@@ -224,6 +224,22 @@
     "category_id": "populace"
   },
   {
+    "id": "pocet_sebevrazd_na_sto_tisic_obyvatel",
+    "abbreviation": "Počet sebevražd (na 100 000 obyvatel)",
+    "name": "Počet sebevražd (na 100 000 obyvatel)",
+    "description": "Suicide mortality rate is the number of suicide deaths in a year per 100,000 population. Crude suicide rate (not age-adjusted).",
+    "unit": null,
+    "asc_ordering": false,
+    "url_source": "https://data.worldbank.org/indicator/SH.STA.SUIC.P5",
+    "data_table": "spolecnost__pocet_sebevrazd_na_sto_tisic_obyvatel",
+    "default_from": 1990,
+    "default_to": 2020,
+    "default_group_id": "svet",
+    "default_chart_id": "tabulka",
+    "source_id": "svetova_banka",
+    "category_id": "spolecnost"
+  },
+  {
     "id": "pocet_uprchliku_podle_zeme_azylu",
     "abbreviation": "Počet uprchlíků podle země azylu",
     "name": "Počet uprchlíků podle země azylu",
