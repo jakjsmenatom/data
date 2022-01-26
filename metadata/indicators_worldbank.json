@@ -224,6 +224,38 @@
     "category_id": "populace"
   },
   {
+    "id": "pocet_infikovanych_virem_hiv_na_tisic_neinfikovanych",
+    "abbreviation": "Počet infikovaných virem HIV (na 1 000 neinfikovaných)",
+    "name": "Počet infikovaných virem HIV (na 1 000 neinfikovaných)",
+    "description": "Number of new HIV infections among uninfected populations expressed per 1,000 uninfected population in the year before the period.",
+    "unit": null,
+    "asc_ordering": false,
+    "url_source": "https://data.worldbank.org/indicator/SH.HIV.INCD.TL.P3",
+    "data_table": "zdravi__pocet_infikovanych_virem_hiv_na_tisic_neinfikovanych",
+    "default_from": 1990,
+    "default_to": 2020,
+    "default_group_id": "svet",
+    "default_chart_id": "tabulka",
+    "source_id": "svetova_banka",
+    "category_id": "zdravi"
+  },
+  {
+    "id": "pocet_nove_infikovanych_virem_hiv",
+    "abbreviation": "Počet nově infikovaných virem HIV",
+    "name": "Počet nově infikovaných virem HIV",
+    "description": "Number of adults (ages 15+) and children (ages 0-14) newly infected with HIV.",
+    "unit": null,
+    "asc_ordering": false,
+    "url_source": "https://data.worldbank.org/indicator/SH.HIV.INCD.TL",
+    "data_table": "zdravi__pocet_nove_infikovanych_virem_hiv",
+    "default_from": 1990,
+    "default_to": 2020,
+    "default_group_id": "svet",
+    "default_chart_id": "tabulka",
+    "source_id": "svetova_banka",
+    "category_id": "zdravi"
+  },
+  {
     "id": "pocet_sebevrazd_na_sto_tisic_obyvatel",
     "abbreviation": "Počet sebevražd (na 100 000 obyvatel)",
     "name": "Počet sebevražd (na 100 000 obyvatel)",
