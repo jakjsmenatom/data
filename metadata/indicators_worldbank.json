@@ -405,21 +405,6 @@
     "category_id": "ekonomika"
   },
   {
-    "id": "pristup_k_elektrine_procento_obyvatel",
-    "abbreviation": "Přístup k elektřině (% obyvatel)",
-    "name": "Přístup k elektřině (% obyvatel)",
-    "description": "Access to electricity is the percentage of population with access to electricity. Electrification data are collected from industry, national surveys and international sources.",
-    "unit": null,
-    "asc_ordering": false,
-    "url_source": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-    "default_from": 1990,
-    "default_to": 2020,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
-    "category_id": "infrastruktura"
-  },
-  {
     "id": "remitence_obdrzene",
     "abbreviation": "Remitence, obdržené ($)",
     "name": "Remitence, obdržené ($)",
