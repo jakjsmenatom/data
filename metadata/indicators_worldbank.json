@@ -514,7 +514,7 @@
     "abbreviation": "Přístup k elektřině (% obyvatel)",
     "name": "Přístup k elektřině (% obyvatel)",
     "description": "Access to electricity is the percentage of population with access to electricity. Electrification data are collected from industry, national surveys and international sources.",
-    "unit": null,
+    "unit": "%",
     "asc_ordering": false,
     "url_source": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
     "default_from": 1990,
@@ -522,6 +522,21 @@
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
     "source_id": "svetova_banka",
-    "category_id": "energetika"
+    "category_id": "infrastruktura"
+  },
+  {
+    "id": "pristup_k_internetu_procento_obyvatel",
+    "abbreviation": "Přístup k internetu (% obyvatel)",
+    "name": "Přístup k internetu (% obyvatel)",
+    "description": "Internet users are individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.",
+    "unit": "%",
+    "asc_ordering": false,
+    "url_source": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
+    "default_from": 1990,
+    "default_to": 2020,
+    "default_group_id": "svet",
+    "default_chart_id": "tabulka",
+    "source_id": "svetova_banka",
+    "category_id": "infrastruktura"
   }
 ]
