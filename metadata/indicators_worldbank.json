@@ -11,7 +11,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "populace"
   },
   {
@@ -26,7 +26,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "populace"
   },
   {
@@ -41,7 +41,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "zivotni_prostredi"
   },
   {
@@ -56,68 +56,8 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "zivotni_prostredi"
-  },
-  {
-    "id": "hdp",
-    "abbreviation": "HDP",
-    "name": "Hrubý domácí produkt",
-    "description": "GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars. Dollar figures for GDP are converted from domestic currencies using single year official exchange rates. For a few countries where the official exchange rate does not reflect the rate effectively applied to actual foreign exchange transactions, an alternative conversion factor is used.",
-    "unit": "$",
-    "asc_ordering": false,
-    "url_source": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
-    "default_from": 2000,
-    "default_to": 2021,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
-    "category_id": "ekonomika"
-  },
-  {
-    "id": "hdp_na_obyvatele",
-    "abbreviation": "HDP na obyvatele",
-    "name": "Hrubý domácí produkt na obyvatele",
-    "description": "GDP per capita is gross domestic product divided by midyear population. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars.",
-    "unit": "$",
-    "asc_ordering": false,
-    "url_source": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD",
-    "default_from": 2000,
-    "default_to": 2021,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
-    "category_id": "ekonomika"
-  },
-  {
-    "id": "hdp_na_obyvatele_podle_parity_kupni_sily",
-    "abbreviation": "HDP na obyvatele podle parity kupní síly",
-    "name": "Hrubý domácí produkt na obyvatele podle parity kupní síly",
-    "description": "This indicator provides per capita values for gross domestic product (GDP) expressed in current international dollars converted by purchasing power parity (PPP) conversion factor. GDP is the sum of gross value added by all resident producers in the country plus any product taxes and minus any subsidies not included in the value of the products. conversion factor is a spatial price deflator and currency converter that controls for price level differences between countries. Total population is a mid-year population based on the de facto definition of population, which counts all residents regardless of legal status or citizenship.",
-    "unit": "$",
-    "asc_ordering": false,
-    "url_source": "https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD",
-    "default_from": 2000,
-    "default_to": 2021,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
-    "category_id": "ekonomika"
-  },
-  {
-    "id": "hdp_rust_mezirocne",
-    "abbreviation": "Růst HDP (meziročně %)",
-    "name": "Růst hrubého domácí produktu (meziročně %)",
-    "description": "Annual percentage growth rate of GDP at market prices based on constant local currency. Aggregates are based on constant 2015 prices, expressed in U.S. dollars. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources.",
-    "unit": "%",
-    "asc_ordering": false,
-    "url_source": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG",
-    "default_from": 2000,
-    "default_to": 2021,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
-    "category_id": "ekonomika"
   },
   {
     "id": "hustota_zalidneni",
@@ -131,7 +71,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "populace"
   },
   {
@@ -146,7 +86,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "spolecnost"
   },
   {
@@ -161,7 +101,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "spolecnost"
   },
   {
@@ -176,7 +116,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "populace"
   },
   {
@@ -191,7 +131,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "populace"
   },
   {
@@ -206,7 +146,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "populace"
   },
   {
@@ -221,7 +161,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "zdravi"
   },
   {
@@ -236,7 +176,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "zdravi"
   },
   {
@@ -251,7 +191,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "spolecnost"
   },
   {
@@ -266,7 +206,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "spolecnost"
   },
   {
@@ -281,7 +221,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "spolecnost"
   },
   {
@@ -296,7 +236,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "spolecnost"
   },
   {
@@ -311,7 +251,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "populace"
   },
   {
@@ -326,7 +266,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "populace"
   },
   {
@@ -341,7 +281,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "populace"
   },
   {
@@ -356,7 +296,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "populace"
   },
   {
@@ -371,7 +311,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "populace"
   },
   {
@@ -386,7 +326,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "populace"
   },
   {
@@ -401,7 +341,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "ekonomika"
   },
   {
@@ -416,7 +356,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "spolecnost"
   },
   {
@@ -431,7 +371,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "spolecnost"
   },
   {
@@ -446,7 +386,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "spolecnost"
   },
   {
@@ -461,7 +401,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "geografie"
   },
   {
@@ -476,7 +416,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "infrastruktura"
   },
   {
@@ -491,7 +431,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "geografie"
   },
   {
@@ -506,7 +446,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "geografie"
   },
   {
@@ -521,7 +461,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "infrastruktura"
   },
   {
@@ -536,7 +476,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "source_id": "svetova_banka",
+    "default_source_id": "svetova_banka",
     "category_id": "infrastruktura"
   }
 ]
