@@ -25,7 +25,7 @@
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
     "default_source_id": "svetova_banka",
-    "category_id": "populace"
+    "category_id": "zdravi"
   },
   {
     "id": "emise_co2",
@@ -67,7 +67,7 @@
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
     "default_source_id": "svetova_banka",
-    "category_id": "populace"
+    "category_id": "geografie"
   },
   {
     "id": "mezinarodni_cestovni_ruch_pocet_odjezdu",
@@ -137,7 +137,7 @@
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
     "default_source_id": "svetova_banka",
-    "category_id": "populace"
+    "category_id": "zdravi"
   },
   {
     "id": "pocet_infikovanych_virem_hiv_na_tisic_neinfikovanych",
@@ -179,7 +179,7 @@
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
     "default_source_id": "svetova_banka",
-    "category_id": "spolecnost"
+    "category_id": "zdravi"
   },
   {
     "id": "pocet_uprchliku_podle_zeme_azylu",

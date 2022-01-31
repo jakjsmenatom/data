@@ -12,11 +12,11 @@
     "name": "Sloupcový graf"
   },
   {
-    "id": "liniovy_graf",
-    "name": "Liniový graf"
-  },
-  {
     "id": "kolacovy_graf",
     "name": "Koláčový graf"
+  },
+  {
+    "id": "liniovy_graf",
+    "name": "Liniový graf"
   }
 ]

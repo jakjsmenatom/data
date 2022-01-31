@@ -12,18 +12,6 @@
     "description": ""
   },
   {
-    "id": "vzdelavani",
-    "name": "Vzdělávání",
-    "icon": "fas university",
-    "description": ""
-  },
-  {
-    "id": "energetika",
-    "name": "Energetika",
-    "icon": "fas bolt",
-    "description": ""
-  },
-  {
     "id": "zivotni_prostredi",
     "name": "Životní prostředí",
     "icon": "fas tree",
@@ -51,12 +39,6 @@
     "id": "populace",
     "name": "Populace",
     "icon": "todo",
-    "description": ""
-  },
-  {
-    "id": "ostatni",
-    "name": "Ostatní",
-    "icon": "fas ellipsis-h",
     "description": ""
   }
 ]

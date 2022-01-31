@@ -44,3 +44,26 @@
     "category_id": "ekonomika"
   },
 ```
+
+### Deleted categories
+
+```json
+  {
+    "id": "energetika",
+    "name": "Energetika",
+    "icon": "fas bolt",
+    "description": ""
+  },
+  {
+    "id": "ostatni",
+    "name": "Ostatní",
+    "icon": "fas ellipsis-h",
+    "description": ""
+  },
+  {
+    "id": "vzdelavani",
+    "name": "Vzdělávání",
+    "icon": "fas university",
+    "description": ""
+  },
+```
