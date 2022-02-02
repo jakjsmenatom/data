@@ -1,6 +1,6 @@
 [
   {
-    "id": "svetova_banka",
+    "id": "wb",
     "abbreviation": "Světová banka",
     "name": "Světová banka",
     "url": "data.worldbank.org",
@@ -12,5 +12,12 @@
     "name": "Mezinárodní měnový fond",
     "url": "imf.org/external/datamapper/datasets",
     "description": ""
+  },
+  {
+    "id": "fi",
+    "abbreviation": "Fraserův institut",
+    "name": "Fraserův institut",
+    "url": "fraserinstitute.org/economic-freedom/dataset",
+    "description": "See publications on fraserinstitute.org/studies/economic-freedom."
   }
 ]

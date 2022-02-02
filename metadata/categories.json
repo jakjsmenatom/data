@@ -32,13 +32,19 @@
   {
     "id": "spolecnost",
     "name": "Společnost",
-    "icon": "fas users",
+    "icon": "fas fa-city",
     "description": ""
   },
   {
     "id": "populace",
     "name": "Populace",
-    "icon": "todo",
+    "icon": "fas users",
+    "description": ""
+  },
+  {
+    "id": "svoboda",
+    "name": "Svoboda",
+    "icon": "fas fa-dove",
     "description": ""
   }
 ]
