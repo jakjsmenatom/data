@@ -10,7 +10,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "populace"
   },
   {
@@ -24,7 +24,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "zdravi"
   },
   {
@@ -38,7 +38,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "zivotni_prostredi"
   },
   {
@@ -52,7 +52,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "zivotni_prostredi"
   },
   {
@@ -66,7 +66,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "geografie"
   },
   {
@@ -80,7 +80,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "spolecnost"
   },
   {
@@ -94,7 +94,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "spolecnost"
   },
   {
@@ -108,7 +108,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "populace"
   },
   {
@@ -122,7 +122,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "populace"
   },
   {
@@ -136,7 +136,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "zdravi"
   },
   {
@@ -150,7 +150,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "zdravi"
   },
   {
@@ -164,7 +164,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "zdravi"
   },
   {
@@ -178,7 +178,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "zdravi"
   },
   {
@@ -192,7 +192,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "spolecnost"
   },
   {
@@ -206,7 +206,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "spolecnost"
   },
   {
@@ -220,7 +220,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "spolecnost"
   },
   {
@@ -234,7 +234,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "populace"
   },
   {
@@ -248,7 +248,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "populace"
   },
   {
@@ -262,7 +262,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "populace"
   },
   {
@@ -276,7 +276,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "populace"
   },
   {
@@ -290,7 +290,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "populace"
   },
   {
@@ -304,7 +304,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "populace"
   },
   {
@@ -318,7 +318,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "ekonomika"
   },
   {
@@ -332,7 +332,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "spolecnost"
   },
   {
@@ -346,7 +346,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "spolecnost"
   },
   {
@@ -360,7 +360,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "spolecnost"
   },
   {
@@ -374,7 +374,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "geografie"
   },
   {
@@ -388,7 +388,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "infrastruktura"
   },
   {
@@ -402,7 +402,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "geografie"
   },
   {
@@ -416,7 +416,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "geografie"
   },
   {
@@ -430,7 +430,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "infrastruktura"
   },
   {
@@ -444,7 +444,7 @@
     "default_to": 2021,
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
-    "default_source_id": "svetova_banka",
+    "default_source_id": "wb",
     "category_id": "infrastruktura"
   }
 ]
