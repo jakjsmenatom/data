@@ -248,5 +248,10 @@
     "source_id": "wb",
     "indicator_id": "zemedelska_puda",
     "url_src": "https://data.worldbank.org/indicator/AG.LND.AGRI.ZS"
+  },
+  {
+    "source_id": "wb",
+    "indicator_id": "mira_gramotnosti_procento_osob_starsich_15_let",
+    "url_src": "https://data.worldbank.org/indicator/SE.ADT.LITR.ZS"
   }
 ]

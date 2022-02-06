@@ -446,5 +446,19 @@
     "default_chart_id": "tabulka",
     "default_source_id": "wb",
     "category_id": "infrastruktura"
+  },
+  {
+    "id": "mira_gramotnosti_procento_osob_starsich_15_let",
+    "abbreviation": "Míra gramotnosti (% osob starších 15 let)",
+    "name": "Míra gramotnosti (% osob starších 15 let)",
+    "description": "Adult literacy rate is the percentage of people ages 15 and above who can both read and write with understanding a short simple statement about their everyday life.",
+    "unit": "%",
+    "asc_ordering": false,
+    "default_from": 2000,
+    "default_to": 2021,
+    "default_group_id": "svet",
+    "default_chart_id": "tabulka",
+    "default_source_id": "wb",
+    "category_id": "spolecnost"
   }
 ]
