@@ -15,14 +15,9 @@
     "name": "Severoatlantická aliance"
   },
   {
-    "id": "evropa",
-    "abbreviation": "Evropa",
-    "name": "Evropa"
-  },
-  {
-    "id": "svet",
-    "abbreviation": "Svět",
-    "name": "Svět"
+    "id": "oecd",
+    "abbreviation": "OECD",
+    "name": "Organizaci pro hospodářskou spolupráci a rozvoj"
   },
   {
     "id": "g20",
@@ -33,5 +28,35 @@
     "id": "g8",
     "abbreviation": "Skupina G-8",
     "name": "Skupina G-8"
+  },
+  {
+    "id": "afrika",
+    "abbreviation": "Afrika",
+    "name": "Afrika"
+  },
+  {
+    "id": "amerika",
+    "abbreviation": "Amerika",
+    "name": "Amerika"
+  },
+  {
+    "id": "asie",
+    "abbreviation": "Asie",
+    "name": "Asie"
+  },
+  {
+    "id": "australie_a_oceanie",
+    "abbreviation": "Austrálie a Oceánie",
+    "name": "Austrálie a Oceánie"
+  },
+  {
+    "id": "evropa",
+    "abbreviation": "Evropa",
+    "name": "Evropa"
+  },
+  {
+    "id": "svet",
+    "abbreviation": "Svět",
+    "name": "Svět"
   }
 ]
