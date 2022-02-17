@@ -141,6 +141,7 @@
   { "group_id": "g20", "country_id_alp2": "tr", "joined": null, "left_": null },
   { "group_id": "g20", "country_id_alp2": "es", "joined": null, "left_": null },
 
+  { "group_id": "oecd", "country_id_alp2": "cz", "joined": null, "left_": null },
   { "group_id": "oecd", "country_id_alp2": "at", "joined": null, "left_": null },
   { "group_id": "oecd", "country_id_alp2": "au", "joined": null, "left_": null },
   { "group_id": "oecd", "country_id_alp2": "be", "joined": null, "left_": null },
@@ -148,7 +149,6 @@
   { "group_id": "oecd", "country_id_alp2": "cl", "joined": null, "left_": null },
   { "group_id": "oecd", "country_id_alp2": "co", "joined": null, "left_": null },
   { "group_id": "oecd", "country_id_alp2": "cr", "joined": null, "left_": null },
-  { "group_id": "oecd", "country_id_alp2": "cz", "joined": null, "left_": null },
   { "group_id": "oecd", "country_id_alp2": "dk", "joined": null, "left_": null },
   { "group_id": "oecd", "country_id_alp2": "ee", "joined": null, "left_": null },
   { "group_id": "oecd", "country_id_alp2": "fi", "joined": null, "left_": null },
@@ -180,6 +180,7 @@
   { "group_id": "oecd", "country_id_alp2": "us", "joined": null, "left_": null },
   { "group_id": "oecd", "country_id_alp2": "gb", "joined": null, "left_": null },
 
+  { "group_id": "afrika", "country_id_alp2": "cz", "joined": null, "left_": null },
   { "group_id": "afrika", "country_id_alp2": "dz", "joined": null, "left_": null },
   { "group_id": "afrika", "country_id_alp2": "ao", "joined": null, "left_": null },
   { "group_id": "afrika", "country_id_alp2": "bw", "joined": null, "left_": null },
@@ -238,6 +239,7 @@
   { "group_id": "afrika", "country_id_alp2": "bf", "joined": null, "left_": null },
   { "group_id": "afrika", "country_id_alp2": "zm", "joined": null, "left_": null },
 
+  { "group_id": "amerika", "country_id_alp2": "cz", "joined": null, "left_": null },
   { "group_id": "amerika", "country_id_alp2": "ag", "joined": null, "left_": null },
   { "group_id": "amerika", "country_id_alp2": "bs", "joined": null, "left_": null },
   { "group_id": "amerika", "country_id_alp2": "bb", "joined": null, "left_": null },
@@ -296,6 +298,7 @@
   { "group_id": "amerika", "country_id_alp2": "uy", "joined": null, "left_": null },
   { "group_id": "amerika", "country_id_alp2": "ve", "joined": null, "left_": null },
 
+  { "group_id": "asie", "country_id_alp2": "cz", "joined": null, "left_": null },
   { "group_id": "asie", "country_id_alp2": "af", "joined": null, "left_": null },
   { "group_id": "asie", "country_id_alp2": "az", "joined": null, "left_": null },
   { "group_id": "asie", "country_id_alp2": "bh", "joined": null, "left_": null },
@@ -355,6 +358,7 @@
   { "group_id": "asie", "country_id_alp2": "xd", "joined": null, "left_": null },
   { "group_id": "asie", "country_id_alp2": "xs", "joined": null, "left_": null },
 
+  { "group_id": "australie_a_oceanie", "country_id_alp2": "cz", "joined": null, "left_": null },
   { "group_id": "australie_a_oceanie", "country_id_alp2": "as", "joined": null, "left_": null },
   { "group_id": "australie_a_oceanie", "country_id_alp2": "au", "joined": null, "left_": null },
   { "group_id": "australie_a_oceanie", "country_id_alp2": "sb", "joined": null, "left_": null },
