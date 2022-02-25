@@ -2,31 +2,31 @@
   {
     "id": "ekonomika",
     "name": "Ekonomika",
-    "icon": "fab bitcoin",
+    "icon": "fab fa-bitcoin",
     "description": ""
   },
   {
     "id": "geografie",
     "name": "Geografie",
-    "icon": "fas globe-europe",
+    "icon": "fas fa-globe-stand",
     "description": ""
   },
   {
     "id": "zivotni_prostredi",
     "name": "Životní prostředí",
-    "icon": "fas tree",
+    "icon": "fas fa-tree",
     "description": ""
   },
   {
     "id": "zdravi",
     "name": "Zdraví",
-    "icon": "fas heartbeat",
+    "icon": "fas fa-heartbeat",
     "description": ""
   },
   {
     "id": "infrastruktura",
     "name": "Infrastruktura",
-    "icon": "fas road",
+    "icon": "fas fa-road",
     "description": ""
   },
   {
@@ -38,7 +38,7 @@
   {
     "id": "populace",
     "name": "Populace",
-    "icon": "fas users",
+    "icon": "fas fa-users",
     "description": ""
   },
   {
