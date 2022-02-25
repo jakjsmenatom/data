@@ -2,49 +2,49 @@
   {
     "id": "ekonomika",
     "name": "Ekonomika",
-    "icon": "fab fa-bitcoin",
+    "icon": "fa-solid fa-money-bill-wave",
     "description": ""
   },
   {
     "id": "geografie",
     "name": "Geografie",
-    "icon": "fas fa-globe-stand",
+    "icon": "fa-solid fa-earth-europe",
     "description": ""
   },
   {
     "id": "zivotni_prostredi",
     "name": "Životní prostředí",
-    "icon": "fas fa-tree",
+    "icon": "fa-solid fa-tree",
     "description": ""
   },
   {
     "id": "zdravi",
     "name": "Zdraví",
-    "icon": "fas fa-heartbeat",
+    "icon": "fa-solid fa-heartbeat",
     "description": ""
   },
   {
     "id": "infrastruktura",
     "name": "Infrastruktura",
-    "icon": "fas fa-road",
+    "icon": "fa-solid fa-road",
     "description": ""
   },
   {
     "id": "spolecnost",
     "name": "Společnost",
-    "icon": "fas fa-city",
+    "icon": "fa-solid fa-city",
     "description": ""
   },
   {
     "id": "populace",
     "name": "Populace",
-    "icon": "fas fa-users",
+    "icon": "fa-solid fa-users",
     "description": ""
   },
   {
     "id": "svoboda",
     "name": "Svoboda",
-    "icon": "fas fa-dove",
+    "icon": "fa-solid fa-dove",
     "description": ""
   }
 ]
