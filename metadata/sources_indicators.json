@@ -2,256 +2,256 @@
   {
     "source_id": "fi",
     "indicator_id": "index_ekonomicke_svobody",
-    "url_src": "https://fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
+    "url_src": "fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
   },
   {
     "source_id": "fi",
     "indicator_id": "index_velikosti_statni_spravy",
-    "url_src": "https://fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
+    "url_src": "fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
   },
   {
     "source_id": "fi",
     "indicator_id": "index_pravniho_systemu_a_respektovani_vlastnickych_prav",
-    "url_src": "https://fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
+    "url_src": "fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
   },
   {
     "source_id": "fi",
     "indicator_id": "index_zdraveho_penezniho_systemu",
-    "url_src": "https://fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
+    "url_src": "fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
   },
   {
     "source_id": "fi",
     "indicator_id": "index_svobody_mezinarodniho_obchodu",
-    "url_src": "https://fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
+    "url_src": "fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
   },
   {
     "source_id": "fi",
     "indicator_id": "index_regulace",
-    "url_src": "https://fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
+    "url_src": "fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
   },
   {
     "source_id": "imf",
     "indicator_id": "hdp",
-    "url_src": "https://www.imf.org/external/datamapper/NGDPD@WEO"
+    "url_src": "imf.org/external/datamapper/NGDPD@WEO"
   },
   {
     "source_id": "imf",
     "indicator_id": "hdp_mezirocni_rust_procentualne",
-    "url_src": "https://www.imf.org/external/datamapper/NGDP_RPCH@WEO"
+    "url_src": "imf.org/external/datamapper/NGDP_RPCH@WEO"
   },
   {
     "source_id": "imf",
     "indicator_id": "hdp_na_obyvatele",
-    "url_src": "https://www.imf.org/external/datamapper/NGDPDPC@WEO"
+    "url_src": "imf.org/external/datamapper/NGDPDPC@WEO"
   },
   {
     "source_id": "imf",
     "indicator_id": "inflace_index_spotrebitelskych_cen_mezirocne",
-    "url_src": "https://www.imf.org/external/datamapper/PCPIPCH@WEO"
+    "url_src": "imf.org/external/datamapper/PCPIPCH@WEO"
   },
   {
     "source_id": "imf",
     "indicator_id": "nezamestnanost_procentualne",
-    "url_src": "https://www.imf.org/external/datamapper/LUR@WEO"
+    "url_src": "imf.org/external/datamapper/LUR@WEO"
   },
   {
     "source_id": "imf",
     "indicator_id": "statni_dluh_centralni_vlady_procento_hdp",
-    "url_src": "https://www.imf.org/external/datamapper/CG_DEBT_GDP@GDD"
+    "url_src": "imf.org/external/datamapper/CG_DEBT_GDP@GDD"
   },
   {
     "source_id": "imf",
     "indicator_id": "statni_dluh_hruby_procento_hdp",
-    "url_src": "https://www.imf.org/external/datamapper/GGXWDG_NGDP@WEO"
+    "url_src": "imf.org/external/datamapper/GGXWDG_NGDP@WEO"
   },
   {
     "source_id": "imf",
     "indicator_id": "statni_dluh_procento_hdp",
-    "url_src": "https://www.imf.org/external/datamapper/GG_DEBT_GDP@GDD"
+    "url_src": "imf.org/external/datamapper/GG_DEBT_GDP@GDD"
   },
   {
     "source_id": "imf",
     "indicator_id": "zadluzeni_soukromeho_sektoru_procento_hdp",
-    "url_src": "https://www.imf.org/external/datamapper/PVD_LS@GDD"
+    "url_src": "imf.org/external/datamapper/PVD_LS@GDD"
   },
   {
     "source_id": "wb",
     "indicator_id": "celkova_populace",
-    "url_src": "https://data.worldbank.org/indicator/SP.POP.TOTL"
+    "url_src": "data.worldbank.org/indicator/SP.POP.TOTL"
   },
   {
     "source_id": "wb",
     "indicator_id": "detska_umrtnost",
-    "url_src": "https://data.worldbank.org/indicator/SH.DYN.MORT"
+    "url_src": "data.worldbank.org/indicator/SH.DYN.MORT"
   },
   {
     "source_id": "wb",
     "indicator_id": "emise_co2",
-    "url_src": "https://data.worldbank.org/indicator/EN.ATM.CO2E.KT"
+    "url_src": "data.worldbank.org/indicator/EN.ATM.CO2E.KT"
   },
   {
     "source_id": "wb",
     "indicator_id": "emise_co2_na_obyvatele",
-    "url_src": "https://data.worldbank.org/indicator/EN.ATM.CO2E.PC"
+    "url_src": "data.worldbank.org/indicator/EN.ATM.CO2E.PC"
   },
   {
     "source_id": "wb",
     "indicator_id": "hdp",
-    "url_src": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD"
+    "url_src": "data.worldbank.org/indicator/NY.GDP.MKTP.CD"
   },
   {
     "source_id": "wb",
     "indicator_id": "hdp_mezirocni_rust_procentualne",
-    "url_src": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG"
+    "url_src": "data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG"
   },
   {
     "source_id": "wb",
     "indicator_id": "hdp_na_obyvatele",
-    "url_src": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD"
+    "url_src": "data.worldbank.org/indicator/NY.GDP.PCAP.CD"
   },
   {
     "source_id": "wb",
     "indicator_id": "hustota_zalidneni",
-    "url_src": "https://data.worldbank.org/indicator/EN.POP.DNST"
+    "url_src": "data.worldbank.org/indicator/EN.POP.DNST"
   },
   {
     "source_id": "wb",
     "indicator_id": "mezinarodni_cestovni_ruch_pocet_odjezdu",
-    "url_src": "https://data.worldbank.org/indicator/ST.INT.DPRT"
+    "url_src": "data.worldbank.org/indicator/ST.INT.DPRT"
   },
   {
     "source_id": "wb",
     "indicator_id": "mezinarodni_cestovni_ruch_pocet_prijezdu",
-    "url_src": "https://data.worldbank.org/indicator/ST.INT.ARVL"
+    "url_src": "data.worldbank.org/indicator/ST.INT.ARVL"
   },
   {
     "source_id": "wb",
     "indicator_id": "migrace",
-    "url_src": "https://data.worldbank.org/indicator/SM.POP.NETM"
+    "url_src": "data.worldbank.org/indicator/SM.POP.NETM"
   },
   {
     "source_id": "wb",
     "indicator_id": "mira_plodnosti",
-    "url_src": "https://data.worldbank.org/indicator/SP.DYN.TFRT.IN"
+    "url_src": "data.worldbank.org/indicator/SP.DYN.TFRT.IN"
   },
   {
     "source_id": "wb",
     "indicator_id": "ocekavana_delka_zivota",
-    "url_src": "https://data.worldbank.org/indicator/SP.DYN.LE00.IN"
+    "url_src": "data.worldbank.org/indicator/SP.DYN.LE00.IN"
   },
   {
     "source_id": "wb",
     "indicator_id": "pocet_infikovanych_virem_hiv_na_tisic_neinfikovanych",
-    "url_src": "https://data.worldbank.org/indicator/SH.HIV.INCD.TL.P3"
+    "url_src": "data.worldbank.org/indicator/SH.HIV.INCD.TL.P3"
   },
   {
     "source_id": "wb",
     "indicator_id": "pocet_nove_infikovanych_virem_hiv",
-    "url_src": "https://data.worldbank.org/indicator/SH.HIV.INCD.TL"
+    "url_src": "data.worldbank.org/indicator/SH.HIV.INCD.TL"
   },
   {
     "source_id": "wb",
     "indicator_id": "pocet_sebevrazd_na_sto_tisic_obyvatel",
-    "url_src": "https://data.worldbank.org/indicator/SH.STA.SUIC.P5"
+    "url_src": "data.worldbank.org/indicator/SH.STA.SUIC.P5"
   },
   {
     "source_id": "wb",
     "indicator_id": "pocet_uprchliku_podle_zeme_azylu",
-    "url_src": "https://data.worldbank.org/indicator/SM.POP.REFG"
+    "url_src": "data.worldbank.org/indicator/SM.POP.REFG"
   },
   {
     "source_id": "wb",
     "indicator_id": "pocet_uprchliku_podle_zeme_puvodu",
-    "url_src": "https://data.worldbank.org/indicator/SM.POP.REFG.OR"
+    "url_src": "data.worldbank.org/indicator/SM.POP.REFG.OR"
   },
   {
     "source_id": "wb",
     "indicator_id": "pocet_vrazd_na_sto_tisic_obyvatel",
-    "url_src": "https://data.worldbank.org/indicator/VC.IHR.PSRC.P5"
+    "url_src": "data.worldbank.org/indicator/VC.IHR.PSRC.P5"
   },
   {
     "source_id": "wb",
     "indicator_id": "populace_0_14_procento",
-    "url_src": "https://data.worldbank.org/indicator/SP.POP.0014.TO.ZS"
+    "url_src": "data.worldbank.org/indicator/SP.POP.0014.TO.ZS"
   },
   {
     "source_id": "wb",
     "indicator_id": "populace_15_64_procento",
-    "url_src": "https://data.worldbank.org/indicator/SP.POP.1564.TO.ZS"
+    "url_src": "data.worldbank.org/indicator/SP.POP.1564.TO.ZS"
   },
   {
     "source_id": "wb",
     "indicator_id": "populace_65_plus_procento",
-    "url_src": "https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS"
+    "url_src": "data.worldbank.org/indicator/SP.POP.65UP.TO.ZS"
   },
   {
     "source_id": "wb",
     "indicator_id": "populace_muzi_procento",
-    "url_src": "https://data.worldbank.org/indicator/SP.POP.TOTL.MA.ZS"
+    "url_src": "data.worldbank.org/indicator/SP.POP.TOTL.MA.ZS"
   },
   {
     "source_id": "wb",
     "indicator_id": "populace_zeny_procento",
-    "url_src": "https://data.worldbank.org/indicator/SP.POP.TOTL.FE.ZS"
+    "url_src": "data.worldbank.org/indicator/SP.POP.TOTL.FE.ZS"
   },
   {
     "source_id": "wb",
     "indicator_id": "populacni_rust_procentualne",
-    "url_src": "https://data.worldbank.org/indicator/SP.POP.GROW"
+    "url_src": "data.worldbank.org/indicator/SP.POP.GROW"
   },
   {
     "source_id": "wb",
     "indicator_id": "prijmova_nerovnost",
-    "url_src": "https://data.worldbank.org/indicator/SI.POV.GINI"
+    "url_src": "data.worldbank.org/indicator/SI.POV.GINI"
   },
   {
     "source_id": "wb",
     "indicator_id": "pristup_k_elektrine_procento_obyvatel",
-    "url_src": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS"
+    "url_src": "data.worldbank.org/indicator/EG.ELC.ACCS.ZS"
   },
   {
     "source_id": "wb",
     "indicator_id": "pristup_k_internetu_procento_obyvatel",
-    "url_src": "https://data.worldbank.org/indicator/IT.NET.USER.ZS"
+    "url_src": "data.worldbank.org/indicator/IT.NET.USER.ZS"
   },
   {
     "source_id": "wb",
     "indicator_id": "remitence_obdrzene",
-    "url_src": "https://data.worldbank.org/indicator/BX.TRF.PWKR.CD.DT"
+    "url_src": "data.worldbank.org/indicator/BX.TRF.PWKR.CD.DT"
   },
   {
     "source_id": "wb",
     "indicator_id": "remitence_obdrzene_procento_z_hdp",
-    "url_src": "https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS"
+    "url_src": "data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS"
   },
   {
     "source_id": "wb",
     "indicator_id": "remitence_zaslane",
-    "url_src": "https://data.worldbank.org/indicator/BM.TRF.PWKR.CD.DT"
+    "url_src": "data.worldbank.org/indicator/BM.TRF.PWKR.CD.DT"
   },
   {
     "source_id": "wb",
     "indicator_id": "rozloha",
-    "url_src": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2"
+    "url_src": "data.worldbank.org/indicator/AG.SRF.TOTL.K2"
   },
   {
     "source_id": "wb",
     "indicator_id": "umrti_na_silnicich_na_sto_tisic_obyvatel",
-    "url_src": "https://data.worldbank.org/indicator/SH.STA.TRAF.P5"
+    "url_src": "data.worldbank.org/indicator/SH.STA.TRAF.P5"
   },
   {
     "source_id": "wb",
     "indicator_id": "zalesnena_plocha",
-    "url_src": "https://data.worldbank.org/indicator/AG.LND.FRST.ZS"
+    "url_src": "data.worldbank.org/indicator/AG.LND.FRST.ZS"
   },
   {
     "source_id": "wb",
     "indicator_id": "zemedelska_puda",
-    "url_src": "https://data.worldbank.org/indicator/AG.LND.AGRI.ZS"
+    "url_src": "data.worldbank.org/indicator/AG.LND.AGRI.ZS"
   },
   {
     "source_id": "wb",
     "indicator_id": "mira_gramotnosti_procento_osob_starsich_15_let",
-    "url_src": "https://data.worldbank.org/indicator/SE.ADT.LITR.ZS"
+    "url_src": "data.worldbank.org/indicator/SE.ADT.LITR.ZS"
   }
 ]
