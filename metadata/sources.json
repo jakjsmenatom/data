@@ -1,23 +1,20 @@
 [
   {
     "id": "wb",
-    "abbreviation": "Světová banka",
     "name": "Světová banka",
     "url": "data.worldbank.org",
-    "description": ""
+    "description": "Světová Banka je organizace spadající pod Organizaci spojených národů (OSN). Zajišťuje finanční a technickou pomoc rozvíjejícím se zemím s cílem především skoncovat s extrémní chudobou, ochraňovat životní prostředí, podporovat ekonomické reformy a zlepšit životní podmínky na celém světě. Jejich databáze obsahuje tisíce indikátorů primárně zaměřených na globální trendy ve světě z různých oblastí. Nejstarší data jsou zhruba z doby založení této instituce, tedy z období po druhé světové válce."
   },
   {
     "id": "imf",
-    "abbreviation": "Mezinárodní měnový fond",
     "name": "Mezinárodní měnový fond",
     "url": "imf.org/external/datamapper/datasets",
-    "description": ""
+    "description": "Mezinárodní měnový fond (IMF, International Monetary Fund) je nadnárodní finanční instituce se sídlem ve Washingtonu, D.C., kterou tvoří 190 zemí. Její deklarovaným posláním je podporovat globální měnovou spolupráci, zajišťovat finanční stabilitu, usnadňovat mezinárodní obchod, podporovat udržitelný hospodářský růst a snižovat chudobu na celém světě. IMF poskytuje svá data prostřednictvím nástroj Datamapper, který umožňuje vizualizaci, porovnávání a stahování dat. Jedná se primárně o ekonomické indikátory."
   },
   {
     "id": "fi",
-    "abbreviation": "Fraserův institut",
     "name": "Fraserův institut",
     "url": "fraserinstitute.org/economic-freedom/dataset",
-    "description": "See publications on fraserinstitute.org/studies/economic-freedom."
+    "description": "Fraserův Institut je kanadský klasicko-liberální think tank, který sestavuje různé indexy svobody pro jednotlivé země. Měří například velikost vlády, kvalitu právního systému, respektování vlastnických práv, svobodu mezinárodního obchodu, kvalitu peněz, množství regulací apod."
   }
 ]
