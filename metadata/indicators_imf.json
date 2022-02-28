@@ -56,7 +56,7 @@
     "category_id": "ekonomika"
   },
   {
-    "id": "nezamestnanost_procentualne",
+    "id": "nezamestnanost_procento",
     "abbreviation": "Nezaměstnanost (%)",
     "name": "Nezaměstnanost (%)",
     "description": "The number of unemployed persons as a percentage of the total labor force.",

@@ -51,7 +51,7 @@
   },
   {
     "source_id": "imf",
-    "indicator_id": "nezamestnanost_procentualne",
+    "indicator_id": "nezamestnanost_procento",
     "url_src": "imf.org/external/datamapper/LUR@WEO"
   },
   {
