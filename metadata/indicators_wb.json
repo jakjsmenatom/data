@@ -33,7 +33,7 @@
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
     "default_source_id": "wb",
-    "category_id": "zivotni_prostredi"
+    "category_id": "ostatni"
   },
   {
     "id": "emise_co2_na_obyvatele",
@@ -45,7 +45,7 @@
     "default_group_id": "svet",
     "default_chart_id": "tabulka",
     "default_source_id": "wb",
-    "category_id": "zivotni_prostredi"
+    "category_id": "ostatni"
   },
   {
     "id": "hustota_zalidneni",

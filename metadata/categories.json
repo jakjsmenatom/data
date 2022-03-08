@@ -12,27 +12,9 @@
     "description": ""
   },
   {
-    "id": "zivotni_prostredi",
-    "name": "Životní prostředí",
-    "icon": "fa-solid fa-tree",
-    "description": ""
-  },
-  {
-    "id": "zdravi",
-    "name": "Zdraví",
-    "icon": "fa-solid fa-heartbeat",
-    "description": ""
-  },
-  {
     "id": "infrastruktura",
     "name": "Infrastruktura",
     "icon": "fa-solid fa-road",
-    "description": ""
-  },
-  {
-    "id": "spolecnost",
-    "name": "Společnost",
-    "icon": "fa-solid fa-city",
     "description": ""
   },
   {
@@ -42,9 +24,27 @@
     "description": ""
   },
   {
+    "id": "spolecnost",
+    "name": "Společnost",
+    "icon": "fa-solid fa-city",
+    "description": ""
+  },
+  {
     "id": "svoboda",
     "name": "Svoboda",
     "icon": "fa-solid fa-dove",
+    "description": ""
+  },
+  {
+    "id": "zdravi",
+    "name": "Zdraví",
+    "icon": "fa-solid fa-heartbeat",
+    "description": ""
+  },
+  {
+    "id": "ostatni",
+    "name": "Ostatní",
+    "icon": "fa-solid fa-ellipsis-h",
     "description": ""
   }
 ]
