@@ -253,5 +253,15 @@
     "source_id": "wb",
     "indicator_id": "mira_gramotnosti_procento_osob_starsich_15_let",
     "url_src": "data.worldbank.org/indicator/SE.ADT.LITR.ZS"
+  },
+  {
+    "source_id": "wb",
+    "indicator_id": "armadni_vydaje",
+    "url_src": "data.worldbank.org/indicator/MS.MIL.XPND.CD"
+  },
+  {
+    "source_id": "wb",
+    "indicator_id": "armadni_vydaje_procento_hdp",
+    "url_src": "data.worldbank.org/indicator/MS.MIL.XPND.GD.ZS"
   }
 ]
