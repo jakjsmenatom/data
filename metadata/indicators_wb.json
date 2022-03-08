@@ -20,26 +20,6 @@
     "category_id": "zdravi"
   },
   {
-    "id": "emise_co2",
-    "abbreviation": "Emise CO2",
-    "name": "Emise CO2 (kilotuna)",
-    "description": "Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring.",
-    "unit": "kt",
-    "asc_ordering": false,
-    "default_source_id": "wb",
-    "category_id": "ostatni"
-  },
-  {
-    "id": "emise_co2_na_obyvatele",
-    "abbreviation": "Emise CO2 na obyvatele",
-    "name": "Emise CO2 na obyvatele (tuna)",
-    "description": "Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring.",
-    "unit": "t",
-    "asc_ordering": false,
-    "default_source_id": "wb",
-    "category_id": "ostatni"
-  },
-  {
     "id": "hustota_zalidneni",
     "abbreviation": "Hustota zalidnění",
     "name": "Hustota zalidnění (počet lidí na km^2)",
@@ -328,5 +308,45 @@
     "asc_ordering": false,
     "default_source_id": "wb",
     "category_id": "spolecnost"
+  },
+  {
+    "id": "emise_co2",
+    "abbreviation": "Emise CO2",
+    "name": "Emise CO2 (kilotuna)",
+    "description": "Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring.",
+    "unit": "kt",
+    "asc_ordering": false,
+    "default_source_id": "wb",
+    "category_id": "ostatni"
+  },
+  {
+    "id": "emise_co2_na_obyvatele",
+    "abbreviation": "Emise CO2 na obyvatele",
+    "name": "Emise CO2 na obyvatele (tuna)",
+    "description": "Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring.",
+    "unit": "t",
+    "asc_ordering": false,
+    "default_source_id": "wb",
+    "category_id": "ostatni"
+  },
+  {
+    "id": "armadni_vydaje",
+    "abbreviation": "Armádní výdaje",
+    "name": "Armádní výdaje",
+    "description": "Military expenditures data from SIPRI are derived from the NATO definition, which includes all current and capital expenditures on the armed forces, including peacekeeping forces; defense ministries and other government agencies engaged in defense projects; paramilitary forces, if these are judged to be trained and equipped for military operations; and military space activities. Such expenditures include military and civil personnel, including retirement pensions of military personnel and social services for personnel; operation and maintenance; procurement; military research and development; and military aid (in the military expenditures of the donor country). Excluded are civil defense and current expenditures for previous military activities, such as for veterans' benefits, demobilization, conversion, and destruction of weapons. This definition cannot be applied for all countries, however, since that would require much more detailed information than is available about what is included in military budgets and off-budget military expenditure items. (For example, military budgets might or might not cover civil defense, reserves and auxiliary forces, police and paramilitary forces, dual-purpose forces such as military and civilian police, military grants in kind, pensions for military personnel, and social security contributions paid by one part of government to another).",
+    "unit": "$",
+    "asc_ordering": false,
+    "default_source_id": "wb",
+    "category_id": "ostatni"
+  },
+  {
+    "id": "armadni_vydaje_procento_hdp",
+    "abbreviation": "Armádní výdaje (% HDP)",
+    "name": "Armádní výdaje (% HDP)",
+    "description": "Military expenditures data from SIPRI are derived from the NATO definition, which includes all current and capital expenditures on the armed forces, including peacekeeping forces; defense ministries and other government agencies engaged in defense projects; paramilitary forces, if these are judged to be trained and equipped for military operations; and military space activities. Such expenditures include military and civil personnel, including retirement pensions of military personnel and social services for personnel; operation and maintenance; procurement; military research and development; and military aid (in the military expenditures of the donor country). Excluded are civil defense and current expenditures for previous military activities, such as for veterans' benefits, demobilization, conversion, and destruction of weapons. This definition cannot be applied for all countries, however, since that would require much more detailed information than is available about what is included in military budgets and off-budget military expenditure items. (For example, military budgets might or might not cover civil defense, reserves and auxiliary forces, police and paramilitary forces, dual-purpose forces such as military and civilian police, military grants in kind, pensions for military personnel, and social security contributions paid by one part of government to another.)",
+    "unit": "%",
+    "asc_ordering": false,
+    "default_source_id": "wb",
+    "category_id": "ostatni"
   }
 ]
