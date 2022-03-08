@@ -5,26 +5,6 @@
 - Data
 - JSON sort tool - [aruljohn.com/jsonsort](https://aruljohn.com/jsonsort/)
 
-### Templates
-
-```json
-{
-  "id": "",
-  "abbreviation": "",
-  "name": "",
-  "description": "",
-  "unit": null,
-  "asc_ordering": false,
-  "url_source": "",
-  "default_from": 2000,
-  "default_to": 2021,
-  "default_group_id": "svet",
-  "default_chart_id": "tabulka",
-  "source_id": "",
-  "category_id": ""
-}
-```
-
 ### Deleted indicators
 
 ```json
@@ -36,10 +16,6 @@
     "unit": "$",
     "asc_ordering": false,
     "url_source": "https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD",
-    "default_from": 2000,
-    "default_to": 2021,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
     "source_id": "svetova_banka",
     "category_id": "ekonomika"
   },
@@ -55,15 +31,15 @@
     "description": ""
   },
   {
-    "id": "ostatni",
-    "name": "Ostatní",
-    "icon": "fas ellipsis-h",
-    "description": ""
-  },
-  {
     "id": "vzdelavani",
     "name": "Vzdělávání",
     "icon": "fas university",
+    "description": ""
+  },
+  {
+    "id": "zivotni_prostredi",
+    "name": "Životní prostředí",
+    "icon": "fa-solid fa-tree",
     "description": ""
   },
 ```

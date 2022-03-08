@@ -6,8 +6,6 @@
     "description": "GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars. Dollar figures for GDP are converted from domestic currencies using single year official exchange rates. For a few countries where the official exchange rate does not reflect the rate effectively applied to actual foreign exchange transactions, an alternative conversion factor is used.",
     "unit": "$",
     "asc_ordering": false,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
     "default_source_id": "imf",
     "category_id": "ekonomika"
   },
@@ -18,8 +16,6 @@
     "description": "Annual percentage growth rate of GDP at market prices based on constant local currency. Aggregates are based on constant 2015 prices, expressed in U.S. dollars. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources.",
     "unit": "%",
     "asc_ordering": false,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
     "default_source_id": "imf",
     "category_id": "ekonomika"
   },
@@ -30,8 +26,6 @@
     "description": "GDP per capita is gross domestic product divided by midyear population. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars.",
     "unit": "$",
     "asc_ordering": false,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
     "default_source_id": "imf",
     "category_id": "ekonomika"
   },
@@ -42,8 +36,6 @@
     "description": "The average consumer price index (CPI) is a measure of a country's average level of prices based on the cost of a typical basket of consumer goods and services in a given period. The rate of inflation is the percent change in the average CPI.",
     "unit": "%",
     "asc_ordering": false,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
     "default_source_id": "imf",
     "category_id": "ekonomika"
   },
@@ -54,8 +46,6 @@
     "description": "The number of unemployed persons as a percentage of the total labor force.",
     "unit": "%",
     "asc_ordering": false,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
     "default_source_id": "imf",
     "category_id": "ekonomika"
   },
@@ -66,8 +56,6 @@
     "description": "Central government debt. Total stock of debt liabilities issued by the central government as a share of GDP.",
     "unit": "%",
     "asc_ordering": false,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
     "default_source_id": "imf",
     "category_id": "ekonomika"
   },
@@ -78,8 +66,6 @@
     "description": "General government gross debt. Gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future. This includes debt liabilities in the form of SDRs, currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable. Thus, all liabilities in the GFSM 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options. Debt can be valued at current market, nominal, or face values (GFSM 2001, paragraph 7.110).",
     "unit": "%",
     "asc_ordering": false,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
     "default_source_id": "imf",
     "category_id": "ekonomika"
   },
@@ -90,8 +76,6 @@
     "description": "General government debt. Total stock of debt liabilities issued by the general government as a share of GDP.",
     "unit": "%",
     "asc_ordering": false,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
     "default_source_id": "imf",
     "category_id": "ekonomika"
   },
@@ -102,8 +86,6 @@
     "description": "Total stock of loans and debt securities issued by households and nonfinancial corporations as a share of GDP",
     "unit": "%",
     "asc_ordering": false,
-    "default_group_id": "svet",
-    "default_chart_id": "tabulka",
     "default_source_id": "imf",
     "category_id": "ekonomika"
   }
