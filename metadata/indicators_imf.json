@@ -3,7 +3,7 @@
     "id": "hdp",
     "abbreviation": "HDP",
     "name": "HDP (hrubý domácí produkt)",
-    "description": "HDP v kupních cenách je součet hrubé přidané hodnoty všech rezidentských výrobců v ekonomice zvýšený o případné daně z produktů a snížený o případné dotace, které nejsou zahrnuty v hodnotě produktů. Počítá se bez odečtení odpisů vyrobených aktiv nebo vyčerpání a znehodnocení přírodních zdrojů. Údaje jsou uvedeny v běžných amerických dolarech. Dolarové údaje o HDP jsou přepočteny z domácích měn pomocí oficiálních směnných kurzů za jeden rok. U několika zemí, kde oficiální směnný kurz neodráží kurz skutečně uplatňovaný při skutečných devizových transakcích, se používá alternativní přepočítací koeficient. Translated with www.DeepL.com/Translator (free version)",
+    "description": "HDP v kupních cenách je součet hrubé přidané hodnoty všech rezidentských výrobců v ekonomice zvýšený o případné daně z produktů a snížený o případné dotace, které nejsou zahrnuty v hodnotě produktů. Počítá se bez odečtení odpisů vyrobených aktiv nebo vyčerpání a znehodnocení přírodních zdrojů. Údaje jsou uvedeny v běžných amerických dolarech. Dolarové údaje o HDP jsou přepočteny z domácích měn pomocí oficiálních směnných kurzů za jeden rok. U několika zemí, kde oficiální směnný kurz neodráží kurz skutečně uplatňovaný při skutečných devizových transakcích, se používá alternativní přepočítací koeficient.",
     "unit": "$",
     "asc_ordering": false,
     "default_source_id": "imf",
