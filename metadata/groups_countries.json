@@ -79,6 +79,7 @@
   { "group_id": "nato", "country_id_alp2": "hr", "joined": 2009, "left_": null },
   { "group_id": "nato", "country_id_alp2": "al", "joined": 2009, "left_": null },
   { "group_id": "nato", "country_id_alp2": "me", "joined": 2017, "left_": null },
+  { "group_id": "nato", "country_id_alp2": "mk", "joined": 2020, "left_": null },
 
   { "group_id": "eu", "country_id_alp2": "be", "joined": 1952, "left_": null },
   { "group_id": "eu", "country_id_alp2": "fr", "joined": 1952, "left_": null },
