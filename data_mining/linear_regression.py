@@ -45,10 +45,14 @@ if __name__ == '__main__':
         preds['value'].append(value)
 
     # Get plot
-    # df.plot.scatter(x='year', y='value', color='blue', label='Known data')
-    plt.scatter(x=list(df.year), y=list(df.value), color='blue', label='Known data')
-    plt.scatter(preds['year'], preds['value'], color='green', label='Predicted data')
-    plt.plot(X, fittedline, color='red', label='Reggression line', linewidth=2)
-    plt.xlabel('Rok')
-    plt.ylabel('Hodnota')
+    _, ax = plt.subplots()
+
+    chart_1 = ax.scatter(x=list(df.year), y=list(df.value), color='blue', label='Known data')
+    chart_2 = ax.scatter(preds['year'], preds['value'], color='green', label='Predicted data')
+    chart_3 = ax.plot(X, fittedline, color='red', label='Reggression line', linewidth=2)
+
+    ax.set_xlabel('Rok')
+    ax.set_ylabel('Hodnota')
+    ax.legend()
+
     plt.savefig('{}.pdf'.format(NAME))
