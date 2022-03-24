@@ -5,6 +5,9 @@ import pandas as pd
 from matplotlib import pyplot as plt
 from sklearn.linear_model import LinearRegression
 
+NAME = __file__.split('/')[-1].split('.')[-2]
+PREDICTED_VALUES = 10
+
 
 def df_series_to_np_array(series: pd.core.series.Series) -> np.ndarray:
     np_array = np.array(list(series))  # convert series to the numpy array
@@ -34,13 +37,18 @@ if __name__ == '__main__':
     intercept = reg.intercept_[0]
     fittedline = slope * X + intercept
 
-    # Get plot
-    df.plot.scatter(x='year', y='value')
-    plt.plot(X, fittedline, label='prediction', color='red', linewidth=2)
-    plt.savefig('jjnt_wb_hdp_swe.pdf')
+    # Get predictions
+    preds = {'year': [], 'value': []}
+    for year in range(61, 61 + PREDICTED_VALUES):
+        value = reg.predict(np.array([year])[::, None])[0][0]
+        preds['year'].append(year)
+        preds['value'].append(value)
 
-    # Print predictions
-    for year in range(61, 101):
-        value = reg.predict(np.array([year])[::, None])[0][0] * DF_VALUE_MIN
-        year_val = year + DF_YEAR_MIN
-        print('{} = {}'.format(year_val, value))
+    # Get plot
+    # df.plot.scatter(x='year', y='value', color='blue', label='Known data')
+    plt.scatter(x=list(df.year), y=list(df.value), color='blue', label='Known data')
+    plt.scatter(preds['year'], preds['value'], color='green', label='Predicted data')
+    plt.plot(X, fittedline, color='red', label='Reggression line', linewidth=2)
+    plt.xlabel('Rok')
+    plt.ylabel('Hodnota')
+    plt.savefig('{}.pdf'.format(NAME))
