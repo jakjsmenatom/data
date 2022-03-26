@@ -2,45 +2,58 @@
 
 from matplotlib import pyplot as plt
 from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_absolute_error
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import PolynomialFeatures
 
 from utils import Data, Sample, to_col_array  # noqa: WPS347
 
 NAME = __file__.split('/')[-1].split('.')[-2]
-PREDICTED_VALUES = 10
+NUM_OF_PRED = 10
 MAX_DEGREE = 3
+FILENAMES = [
+    'wb__celkova_populace__cze',
+    'wb__hdp_na_obyvatele__swe',
+    'imf__statni_dluh_centralni_vlady_procento_hdp__usa',
+]
 
 
-def execute(degree: int) -> None:
+def execute(degree: int, filename: str) -> None:
     data = Data()
-    data.read_csv(filename='jjnt_wb_hdp_swe.csv')
+    data.read_csv('data/{}.csv'.format(filename))
     data.normalize()
 
+    # Create regression model and fit it to data
     reg = make_pipeline(PolynomialFeatures(degree), LinearRegression())
     reg.fit(data.get_years_array(), data.get_values_array())
 
     # Get MSE
-    y_pred = []
-    for year in range(0, data.get_years_list()[-1] + 1):
-        value = reg.predict(to_col_array([year]))[0][0]
-        y_pred.append([year, value])
-    y_true = [[sample.year, sample.value] for sample in data.samples]
-    mse = mean_absolute_error(y_true, y_pred)
+    mse = data.get_mse(reg)
     print('Degree = {}'.format(degree))
     print('MSE = {}'.format(mse))
 
     # Get predictions
-    data_preds = Data()
-    for year in range(61, 61 + PREDICTED_VALUES):
+    data_preds = Data(year_first=data.year_first, value_first=data.value_first)
+    for year in range(61, 61 + NUM_OF_PRED):
         data_preds.samples.append(Sample(
             year=year,
             value=reg.predict(to_col_array([year]))[0][0],
         ))
 
-    # Get plot
+    plot_y = reg.predict(data.get_years_array()) * data.value_first
+
+    # Denormalize data for draw charts
+    data.denormalize()
+    data_preds.denormalize()
+
     fig, ax = plt.subplots()
+
+    ax.plot(
+        data.get_years_array(),
+        plot_y,
+        color='red',
+        label='Reggression curve (degree {})'.format(degree),
+        linewidth=2,
+    )
 
     ax.scatter(
         x=data.get_years_list(),
@@ -56,22 +69,15 @@ def execute(degree: int) -> None:
         label='Predicted data',
     )
 
-    ax.plot(
-        data.get_years_array(),
-        reg.predict(data.get_years_array()),
-        color='red',
-        label='Reggression curve (degree {})'.format(degree),
-        linewidth=2,
-    )
-
     ax.set_xlabel('Rok')
     ax.set_ylabel('Hodnota')
     ax.legend()
 
     fig.tight_layout()
-    plt.savefig('{}_{}.pdf'.format(NAME, degree))
+    plt.savefig('img/{}_{}_{}.png'.format(filename, NAME, degree))
 
 
 if __name__ == '__main__':
-    for degree in range(1, MAX_DEGREE + 1):
-        execute(degree)
+    for filename in FILENAMES:
+        for degree in range(1, MAX_DEGREE + 1):
+            execute(degree, filename)
