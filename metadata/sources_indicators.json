@@ -36,13 +36,23 @@
   },
   {
     "source_id": "imf",
+    "indicator_id": "hdp_na_obyvatele",
+    "url_src": "imf.org/external/datamapper/NGDPDPC@WEO"
+  },
+  {
+    "source_id": "imf",
     "indicator_id": "hdp_mezirocni_rust_procentualne",
     "url_src": "imf.org/external/datamapper/NGDP_RPCH@WEO"
   },
   {
     "source_id": "imf",
-    "indicator_id": "hdp_na_obyvatele",
-    "url_src": "imf.org/external/datamapper/NGDPDPC@WEO"
+    "indicator_id": "hdp_pks",
+    "url_src": "imf.org/external/datamapper/PPPGDP@WEO/"
+  },
+  {
+    "source_id": "imf",
+    "indicator_id": "hdp_pks_na_obyvatele",
+    "url_src": "imf.org/external/datamapper/PPPPC@WEO"
   },
   {
     "source_id": "imf",
