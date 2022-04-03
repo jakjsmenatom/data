@@ -10,6 +10,16 @@
     "category_id": "ekonomika"
   },
   {
+    "id": "hdp_na_obyvatele",
+    "abbreviation": "HDP na obyvatele",
+    "name": "HDP (hrubý domácí produkt) na obyvatele",
+    "description": "HDP na obyvatele je hrubý domácí produkt dělený počtem obyvatel v polovině roku. HDP je součet hrubé přidané hodnoty všech rezidentských výrobců v ekonomice zvýšený o případné daně z produktů a snížený o případné dotace, které nejsou zahrnuty v hodnotě produktů. Počítá se bez odečtení odpisů vyrobených aktiv nebo vyčerpání a znehodnocení přírodních zdrojů. Údaje jsou uvedeny v běžných amerických dolarech.",
+    "unit": "$",
+    "asc_ordering": false,
+    "default_source_id": "imf",
+    "category_id": "ekonomika"
+  },
+  {
     "id": "hdp_mezirocni_rust_procentualne",
     "abbreviation": "HDP, meziroční růst (%)",
     "name": "HDP (hrubý domácí produkt), meziroční růst (%)",
@@ -20,10 +30,20 @@
     "category_id": "ekonomika"
   },
   {
-    "id": "hdp_na_obyvatele",
-    "abbreviation": "HDP na obyvatele",
-    "name": "HDP (hrubý domácí produkt) na obyvatele",
-    "description": "HDP na obyvatele je hrubý domácí produkt dělený počtem obyvatel v polovině roku. HDP je součet hrubé přidané hodnoty všech rezidentských výrobců v ekonomice zvýšený o případné daně z produktů a snížený o případné dotace, které nejsou zahrnuty v hodnotě produktů. Počítá se bez odečtení odpisů vyrobených aktiv nebo vyčerpání a znehodnocení přírodních zdrojů. Údaje jsou uvedeny v běžných amerických dolarech.",
+    "id": "hdp_pks",
+    "abbreviation": "HDP (PKS)",
+    "name": "HDP (hrubý domácí produkt) v PKS (parita kupní síly)",
+    "description": "Hrubý domácí produkt je nejčastěji používaným ukazatelem celkové ekonomické aktivity země. Představuje celkovou hodnotu konečných výrobků a služeb vyrobených v dané zemi za určité časové období v paritě kupní síly. Parita kupní síly (PKS) je teorie, která vztahuje změny nominálního směnného kurzu mezi měnami dvou zemí ke změnám cenových hladin v těchto zemích.",
+    "unit": "$",
+    "asc_ordering": false,
+    "default_source_id": "imf",
+    "category_id": "ekonomika"
+  },
+  {
+    "id": "hdp_pks_na_obyvatele",
+    "abbreviation": "HDP (PKS) na obyvatele",
+    "name": "HDP (hrubý domácí produkt) v PKS (parita kupní síly) na obyvatele",
+    "description": "Hrubý domácí produkt (HDP) je nejčastěji používaným ukazatelem celkové ekonomické aktivity země. HDP na obyvatele představuje celkovou hodnotu konečných statků a služeb vyrobených v dané zemi v paritě kupní síly za určité časové období vydělenou průměrným počtem obyvatel za stejný rok. Parita kupní síly (PKS) je teorie, která vztahuje změny nominálního směnného kurzu mezi měnami dvou zemí ke změnám cenových hladin v těchto zemích.",
     "unit": "$",
     "asc_ordering": false,
     "default_source_id": "imf",
