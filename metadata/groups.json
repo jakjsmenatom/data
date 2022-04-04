@@ -17,17 +17,17 @@
   {
     "id": "oecd",
     "abbreviation": "OECD",
-    "name": "Organizaci pro hospodářskou spolupráci a rozvoj"
+    "name": "OECD"
   },
   {
     "id": "g20",
-    "abbreviation": "Skupina G-20",
-    "name": "Skupina G-20"
+    "abbreviation": "Skupina G20",
+    "name": "Skupina G20"
   },
   {
     "id": "g8",
-    "abbreviation": "Skupina G-8",
-    "name": "Skupina G-8"
+    "abbreviation": "Skupina G8",
+    "name": "Skupina G8"
   },
   {
     "id": "afrika",
