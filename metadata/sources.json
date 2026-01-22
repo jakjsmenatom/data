@@ -3,18 +3,18 @@
     "id": "wb",
     "name": "Světová banka",
     "url": "data.worldbank.org",
-    "description": "Světová Banka je organizace spadající pod Organizaci spojených národů (OSN). Zajišťuje finanční a technickou pomoc rozvíjejícím se zemím s cílem především skoncovat s extrémní chudobou, ochraňovat životní prostředí, podporovat ekonomické reformy a zlepšit životní podmínky na celém světě. Jejich databáze obsahuje tisíce indikátorů primárně zaměřených na globální trendy ve světě z různých oblastí. Nejstarší data jsou zhruba z doby založení této instituce, tedy z období po druhé světové válce."
+    "description": "Světová banka je mezinárodní instituce zaměřená na podporu rozvoje a snižování chudoby. Poskytuje finanční i technickou pomoc zejména rozvojovým zemím, podporuje ekonomické reformy, udržitelný růst a projekty se sociálním i environmentálním dopadem. Její otevřená databáze patří k nejpoužívanějším zdrojům veřejných statistik a obsahuje tisíce ukazatelů napříč oblastmi jako ekonomika, demografie, zdravotnictví, vzdělávání, infrastruktura či životní prostředí. Časové řady u řady indikátorů sahají až do poválečného období."
   },
   {
     "id": "imf",
     "name": "Mezinárodní měnový fond",
     "url": "imf.org/external/datamapper/datasets",
-    "description": "Mezinárodní měnový fond (IMF, International Monetary Fund) je nadnárodní finanční instituce se sídlem ve Washingtonu, D.C., kterou tvoří 190 zemí. Její deklarovaným posláním je podporovat globální měnovou spolupráci, zajišťovat finanční stabilitu, usnadňovat mezinárodní obchod, podporovat udržitelný hospodářský růst a snižovat chudobu na celém světě. IMF poskytuje svá data prostřednictvím nástroj Datamapper, který umožňuje vizualizaci, porovnávání a stahování dat. Jedná se primárně o ekonomické indikátory."
+    "description": "Mezinárodní měnový fond (IMF) je globální finanční instituce se sídlem ve Washingtonu, D.C., sdružující členské státy z celého světa. Jeho cílem je podporovat mezinárodní měnovou spolupráci, finanční stabilitu a udržitelný hospodářský růst a zároveň napomáhat plynulému fungování mezinárodního obchodu. IMF publikuje rozsáhlé sady makroekonomických dat a prognóz, které jsou dostupné například přes nástroj DataMapper pro vizualizaci, porovnávání a stahování. Zdroje IMF se typicky zaměřují na ekonomické indikátory, veřejné finance, inflaci, zaměstnanost a další klíčové makro ukazatele."
   },
   {
     "id": "fi",
     "name": "Fraserův institut",
     "url": "fraserinstitute.org/economic-freedom/dataset",
-    "description": "Fraserův Institut je kanadský klasicko-liberální think tank, který sestavuje různé indexy svobody pro jednotlivé země. Měří například velikost vlády, kvalitu právního systému, respektování vlastnických práv, svobodu mezinárodního obchodu, kvalitu peněz, množství regulací apod."
+    "description": "Fraserův institut je kanadský think tank, který dlouhodobě publikuje mezinárodní srovnání svobody a kvality institucí v jednotlivých zemích. Nejznámější je jeho Index ekonomické svobody, jenž hodnotí země v několika dimenzích, jako je velikost vlády, kvalita právního systému a ochrana vlastnických práv, stabilita měny, otevřenost mezinárodnímu obchodu a míra regulace (např. v oblasti podnikání, práce a úvěrů). Datové sady institutu se často používají pro analytické porovnávání prostředí pro podnikání a fungování trhu napříč státy i v čase."
   }
 ]
