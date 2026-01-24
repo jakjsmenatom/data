@@ -12,7 +12,7 @@
   {
     "id": "detska_umrtnost",
     "abbreviation": "Úmrtnost do 5 let",
-    "name": "Dětská úmrtnost (do 5 let)",
+    "name": "Dětská úmrtnost (do 5 let na 1 000 narozených)",
     "description": "Míra úmrtnosti dětí mladších pěti let vyjadřuje pravděpodobnost, že novorozenec zemře před dosažením věku 5 let, pokud na něj po celé období působí věkově specifické míry úmrtnosti daného roku. Ukazatel se uvádí na 1 000 živě narozených a často slouží jako základní indikátor kvality zdravotní péče a životních podmínek.",
     "unit": "",
     "asc_ordering": true,
