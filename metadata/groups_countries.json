@@ -42,6 +42,7 @@
   { "group_id": "evropa", "country_id_alp2": "ua", "joined": null, "left_": null },
   { "group_id": "evropa", "country_id_alp2": "va", "joined": null, "left_": null },
   { "group_id": "evropa", "country_id_alp2": "gb", "joined": null, "left_": null },
+  { "group_id": "evropa", "country_id_alp2": "xk", "joined": null, "left_": null },
 
   { "group_id": "v4", "country_id_alp2": "cz", "joined": null, "left_": null },
   { "group_id": "v4", "country_id_alp2": "sk", "joined": null, "left_": null },
@@ -233,6 +234,8 @@
   { "group_id": "afrika", "country_id_alp2": "tz", "joined": null, "left_": null },
   { "group_id": "afrika", "country_id_alp2": "bf", "joined": null, "left_": null },
   { "group_id": "afrika", "country_id_alp2": "zm", "joined": null, "left_": null },
+  { "group_id": "afrika", "country_id_alp2": "eh", "joined": null, "left_": null },
+  { "group_id": "afrika", "country_id_alp2": "tf", "joined": null, "left_": null },
 
   { "group_id": "amerika", "country_id_alp2": "cz", "joined": null, "left_": null },
   { "group_id": "amerika", "country_id_alp2": "ag", "joined": null, "left_": null },
@@ -270,6 +273,11 @@
   { "group_id": "amerika", "country_id_alp2": "sr", "joined": null, "left_": null },
   { "group_id": "amerika", "country_id_alp2": "uy", "joined": null, "left_": null },
   { "group_id": "amerika", "country_id_alp2": "ve", "joined": null, "left_": null },
+  { "group_id": "amerika", "country_id_alp2": "gl", "joined": null, "left_": null },
+  { "group_id": "amerika", "country_id_alp2": "pr", "joined": null, "left_": null },
+  { "group_id": "amerika", "country_id_alp2": "gf", "joined": null, "left_": null },
+  { "group_id": "amerika", "country_id_alp2": "bm", "joined": null, "left_": null },
+  { "group_id": "amerika", "country_id_alp2": "fk", "joined": null, "left_": null },
 
   { "group_id": "asie", "country_id_alp2": "cz", "joined": null, "left_": null },
   { "group_id": "asie", "country_id_alp2": "af", "joined": null, "left_": null },
@@ -339,6 +347,7 @@
   { "group_id": "australie_a_oceanie", "country_id_alp2": "to", "joined": null, "left_": null },
   { "group_id": "australie_a_oceanie", "country_id_alp2": "tv", "joined": null, "left_": null },
   { "group_id": "australie_a_oceanie", "country_id_alp2": "ws", "joined": null, "left_": null },
+  { "group_id": "australie_a_oceanie", "country_id_alp2": "nc", "joined": null, "left_": null },
 
   { "group_id": "svet", "country_id_alp2": "af", "joined": null, "left_": null },
   { "group_id": "svet", "country_id_alp2": "al", "joined": null, "left_": null },
@@ -536,5 +545,14 @@
   { "group_id": "svet", "country_id_alp2": "cd", "joined": null, "left_": null },
   { "group_id": "svet", "country_id_alp2": "cg", "joined": null, "left_": null },
   { "group_id": "svet", "country_id_alp2": "gn", "joined": null, "left_": null },
-  { "group_id": "svet", "country_id_alp2": "ne", "joined": null, "left_": null }
+  { "group_id": "svet", "country_id_alp2": "ne", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "xk", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "gl", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "pr", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "gf", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "eh", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "bm", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "fk", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "tf", "joined": null, "left_": null },
+  { "group_id": "svet", "country_id_alp2": "nc", "joined": null, "left_": null }
 ]

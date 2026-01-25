@@ -126,6 +126,13 @@
     "formal_name": "Beninská republika"
   },
   {
+    "id_alp2": "bm",
+    "id_alp3": "bmu",
+    "id_num": "060",
+    "name": "Bermudy",
+    "formal_name": "Bermudy"
+  },
+  {
     "id_alp2": "bt",
     "id_alp3": "btn",
     "id_num": "064",
@@ -294,6 +301,13 @@
     "formal_name": "Etiopská federativní demokratická republika"
   },
   {
+    "id_alp2": "fk",
+    "id_alp3": "flk",
+    "id_num": "238",
+    "name": "Falklandy",
+    "formal_name": "Falklandy"
+  },
+  {
     "id_alp2": "fj",
     "id_alp3": "fji",
     "id_num": "242",
@@ -327,6 +341,13 @@
     "id_num": "254",
     "name": "Francouzská Guyana",
     "formal_name": "Francouzská Guyana"
+  },
+  {
+    "id_alp2": "tf",
+    "id_alp3": "atf",
+    "id_num": "260",
+    "name": "Francouzská jižní a antarktická území",
+    "formal_name": "Francouzská jižní a antarktická území"
   },
   {
     "id_alp2": "ga",
@@ -859,6 +880,13 @@
     "id_num": "578",
     "name": "Norsko",
     "formal_name": "Norské království"
+  },
+  {
+    "id_alp2": "nc",
+    "id_alp3": "ncl",
+    "id_num": "540",
+    "name": "Nová Kaledonie",
+    "formal_name": "Nová Kaledonie"
   },
   {
     "id_alp2": "nz",
