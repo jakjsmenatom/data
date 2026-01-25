@@ -43,7 +43,7 @@
     "id": "hdp_pks_na_obyvatele",
     "abbreviation": "HDP v paritě kupní síly na obyvatele",
     "name": "HDP v paritě kupní síly na obyvatele",
-    "description": "HDP (hrubý domácí produkt) v paritě kupní síly (PKS) na obyvatele vyjadřuje ekonomický výkon přepočtený na jednoho obyvatele a současně očištěný o rozdíly v cenových hladinách mezi zeměmi. Často se používá jako srovnatelnější indikátor průměrné životní úrovně, protože lépe zohledňuje, co si lidé za své příjmy reálně mohou dovolit. Stejně jako u běžného HDP na obyvatele však nejde o měřítko nerovnosti ani kvality života jako celku.",
+    "description": "HDP (hrubý domácí produkt) v paritě kupní síly na obyvatele vyjadřuje ekonomický výkon přepočtený na jednoho obyvatele a současně očištěný o rozdíly v cenových hladinách mezi zeměmi. Často se používá jako srovnatelnější indikátor průměrné životní úrovně, protože lépe zohledňuje, co si lidé za své příjmy reálně mohou dovolit. Stejně jako u běžného HDP na obyvatele však nejde o měřítko nerovnosti ani kvality života jako celku.",
     "unit": "$",
     "asc_ordering": false,
     "default_source_id": "imf",

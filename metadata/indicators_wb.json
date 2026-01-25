@@ -242,7 +242,7 @@
   {
     "id": "rozloha",
     "abbreviation": "Rozloha",
-    "name": "Rozloha státu",
+    "name": "Rozloha",
     "description": "Rozloha vyjadřuje celkovou plochu území státu v kilometrech čtverečních. V definici mohou být zahrnuty i vybrané vnitrozemské vodní plochy a některé pobřežní vodní cesty, v závislosti na metodice zdroje. Ukazatel slouží jako základ pro výpočty hustoty zalidnění a dalších geografických metrik.",
     "unit": "km²",
     "asc_ordering": false,
