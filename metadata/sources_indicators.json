@@ -1,33 +1,78 @@
 [
   {
     "source_id": "fi",
+    "indicator_id": "index_celkove_svobody",
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
+  },
+  {
+    "source_id": "fi",
+    "indicator_id": "index_osobni_svobody",
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
+  },
+  {
+    "source_id": "fi",
     "indicator_id": "index_ekonomicke_svobody",
-    "url_src": "fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
   },
   {
     "source_id": "fi",
-    "indicator_id": "index_velikosti_statni_spravy",
-    "url_src": "fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
+    "indicator_id": "index_pravniho_statu",
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
   },
   {
     "source_id": "fi",
-    "indicator_id": "index_pravniho_systemu_a_respektovani_vlastnickych_prav",
-    "url_src": "fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
+    "indicator_id": "index_bezpecnosti",
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
   },
   {
     "source_id": "fi",
-    "indicator_id": "index_zdraveho_penezniho_systemu",
-    "url_src": "fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
+    "indicator_id": "index_svobody_pohybu",
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
   },
   {
     "source_id": "fi",
-    "indicator_id": "index_svobody_mezinarodniho_obchodu",
-    "url_src": "fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
+    "indicator_id": "index_nabozenske_svobody",
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
+  },
+  {
+    "source_id": "fi",
+    "indicator_id": "index_shromazdovani",
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
+  },
+  {
+    "source_id": "fi",
+    "indicator_id": "index_svobody_projevu",
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
+  },
+  {
+    "source_id": "fi",
+    "indicator_id": "index_identity_a_vztahu",
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
+  },
+  {
+    "source_id": "fi",
+    "indicator_id": "index_velikosti_statu",
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
+  },
+  {
+    "source_id": "fi",
+    "indicator_id": "index_pravniho_systemu",
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
+  },
+  {
+    "source_id": "fi",
+    "indicator_id": "index_penezni_stability",
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
+  },
+  {
+    "source_id": "fi",
+    "indicator_id": "index_svobody_obchodu",
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
   },
   {
     "source_id": "fi",
     "indicator_id": "index_regulace",
-    "url_src": "fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2021.pdf"
+    "url_src": "fraserinstitute.org/studies/human-freedom-index-2025"
   },
   {
     "source_id": "imf",
