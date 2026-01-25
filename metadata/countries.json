@@ -357,6 +357,13 @@
     "formal_name": "Gruzie"
   },
   {
+    "id_alp2": "gl",
+    "id_alp3": "grl",
+    "id_num": "304",
+    "name": "Grónsko",
+    "formal_name": "Grónsko"
+  },
+  {
     "id_alp2": "gt",
     "id_alp3": "gtm",
     "id_num": "320",
@@ -565,6 +572,13 @@
     "id_num": "174",
     "name": "Komory",
     "formal_name": "Komorský svaz"
+  },
+  {
+    "id_alp2": "xk",
+    "id_alp3": "xkx",
+    "id_num": "",
+    "name": "Kosovo",
+    "formal_name": "Republika Kosovo"
   },
   {
     "id_alp2": "cr",
