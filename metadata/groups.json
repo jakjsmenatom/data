@@ -1,8 +1,33 @@
 [
   {
-    "id": "v4",
-    "abbreviation": "V4",
-    "name": "Visegrádská čtyřka"
+    "id": "svet",
+    "abbreviation": "Svět",
+    "name": "Svět"
+  },
+  {
+    "id": "evropa",
+    "abbreviation": "Evropa",
+    "name": "Evropa"
+  },
+  {
+    "id": "amerika",
+    "abbreviation": "Amerika",
+    "name": "Amerika"
+  },
+  {
+    "id": "asie",
+    "abbreviation": "Asie",
+    "name": "Asie"
+  },
+  {
+    "id": "afrika",
+    "abbreviation": "Afrika",
+    "name": "Afrika"
+  },
+  {
+    "id": "australie_a_oceanie",
+    "abbreviation": "Austrálie a Oceánie",
+    "name": "Austrálie a Oceánie"
   },
   {
     "id": "eu",
@@ -20,43 +45,18 @@
     "name": "OECD"
   },
   {
-    "id": "g20",
-    "abbreviation": "Skupina G20",
-    "name": "Skupina G20"
-  },
-  {
     "id": "g8",
     "abbreviation": "Skupina G8",
     "name": "Skupina G8"
   },
   {
-    "id": "afrika",
-    "abbreviation": "Afrika",
-    "name": "Afrika"
+    "id": "g20",
+    "abbreviation": "Skupina G20",
+    "name": "Skupina G20"
   },
   {
-    "id": "amerika",
-    "abbreviation": "Amerika",
-    "name": "Amerika"
-  },
-  {
-    "id": "asie",
-    "abbreviation": "Asie",
-    "name": "Asie"
-  },
-  {
-    "id": "australie_a_oceanie",
-    "abbreviation": "Austrálie a Oceánie",
-    "name": "Austrálie a Oceánie"
-  },
-  {
-    "id": "evropa",
-    "abbreviation": "Evropa",
-    "name": "Evropa"
-  },
-  {
-    "id": "svet",
-    "abbreviation": "Svět",
-    "name": "Svět"
+    "id": "v4",
+    "abbreviation": "V4",
+    "name": "Visegrádská čtyřka"
   }
 ]
