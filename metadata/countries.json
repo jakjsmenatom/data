@@ -322,6 +322,13 @@
     "formal_name": "Francouzská republika"
   },
   {
+    "id_alp2": "gf",
+    "id_alp3": "guf",
+    "id_num": "254",
+    "name": "Francouzská Guyana",
+    "formal_name": "Francouzská Guyana"
+  },
+  {
     "id_alp2": "ga",
     "id_alp3": "gab",
     "id_num": "266",
@@ -917,6 +924,13 @@
     "formal_name": "Polská republika"
   },
   {
+    "id_alp2": "pr",
+    "id_alp3": "pri",
+    "id_num": "630",
+    "name": "Portoriko",
+    "formal_name": "Portoriko"
+  },
+  {
     "id_alp2": "pt",
     "id_alp3": "prt",
     "id_num": "620",
@@ -1321,6 +1335,13 @@
     "id_num": "894",
     "name": "Zambie",
     "formal_name": "Zambijská republika"
+  },
+  {
+    "id_alp2": "eh",
+    "id_alp3": "esh",
+    "id_num": "732",
+    "name": "Západní Sahara",
+    "formal_name": "Západní Sahara"
   },
   {
     "id_alp2": "zw",
